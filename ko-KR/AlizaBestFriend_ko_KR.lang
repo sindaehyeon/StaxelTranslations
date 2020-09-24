@@ -1,14 +1,14 @@
 ﻿language.code=ko-KR
 language=한국어
 //[Reference] 'Good job on findin' those resources, ^c:1486b0;{0-playername}^c:pop;!'
-staxel.village.character.dialogue.AlizaBestFriend.line:10000100=찾아줘서 고맙다!
+staxel.village.character.dialogue.AlizaBestFriend.line:10000100=이야, 진짜 찾아와줬구나! 고마워, ^c:1486b0;{0-playername}^c:pop;!
 //[Reference] 'Ya really got me out of a bind there.'
-staxel.village.character.dialogue.AlizaBestFriend.line:10000200=짜식, 덕분에 살았다 진짜.
+staxel.village.character.dialogue.AlizaBestFriend.line:10000200=진짜 네가 내 생명의 은인이야!
 //[Reference] 'Had quite a few people on by sourcin' for pretty big buildin' projects since!'
-staxel.village.character.dialogue.AlizaBestFriend.line:10000300=꽤 큰 작업인데도 많은 사람들이 도와주러 왔었어!
+staxel.village.character.dialogue.AlizaBestFriend.line:10000300=꽤 많은 사람들이 그 건축 프로젝트에 자원을 아낌없이 줘서 금방 끝낼 수 있었어.
 //[Reference] 'Can't thank ya enough, ^c:1486b0;{0-playername}^c:pop;!'
-staxel.village.character.dialogue.AlizaBestFriend.line:10000400=이걸 어떻게 보답할지 모르겠다, ^c:1486b0;{0-playername}^c:pop;!
+staxel.village.character.dialogue.AlizaBestFriend.line:10000400=진짜 ^c:1486b0;{0-playername}^c:pop; 네가 없었으면 어쩔 뻔 했어!
 //[Reference] 'Yer help really is invaluable to the store.'
-staxel.village.character.dialogue.AlizaBestFriend.line:10000500=너의 도움이 가게에 큰 도움이 되었어!
+staxel.village.character.dialogue.AlizaBestFriend.line:10000500=특히나 넌 내 가게에 큰 도움이 되어줬잖아.
 //[Reference] 'An' I don' just mean in terms of what ya buy either!'
-staxel.village.character.dialogue.AlizaBestFriend.line:10000600=매출 갖고 이러는 게 아냐.
+staxel.village.character.dialogue.AlizaBestFriend.line:10000600=네가 그냥 단순한 단골고객이라서 하는 말이 아니라구!
