@@ -1,6 +1,6 @@
-﻿language.code=ko-KR
+language.code=ko-KR
 language=한국어
 //[Reference] 'A thief in town? They won't steal any free drinks from me!'
-staxel.village.dialogue.BarkeepTheft.line:10000100=A thief in town? They won't steal any free drinks from me!
+staxel.village.dialogue.BarkeepTheft.line:10000100=도둑이라? 하! 걔들은 절대 나한테서 음료수를 털지 못할게다!
 //[Reference] 'Keep an eye out for suspicious characters.'
-staxel.village.dialogue.BarkeepTheft.line:10000200=Keep an eye out for suspicious characters.
+staxel.village.dialogue.BarkeepTheft.line:10000200=혹시나 의심스러운 행동을 하는 자가 있거든, 늘 주시하게.
