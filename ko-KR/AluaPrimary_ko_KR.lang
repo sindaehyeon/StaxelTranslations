@@ -1,38 +1,38 @@
-﻿language.code=ko-KR
+language.code=ko-KR
 language=한국어
 //[Reference] 'Oh! Well this is a little disappointing...'
-staxel.village.dialogue.Alua.line:10001400=어, 그건 조금 실망이네...
+staxel.village.dialogue.Alua.line:10001400=아... 그건 좀 실망인걸...
 //[Reference] 'I had hoped he'd come and do it himself...'
-staxel.village.dialogue.Alua.line:10001500=그가 직접 와서 좀 도와줬으면 했는데...
+staxel.village.dialogue.Alua.line:10001500=직접 와주길 바랐는데...
 //[Reference] 'Oh! But maybe that was a bit rude of me.'
-staxel.village.dialogue.Alua.line:10001600=아! 물론 내가 좀 무례했을지도 모르지.
+staxel.village.dialogue.Alua.line:10001600=아! 물론, 내가 좀 무례하게 대했을지도 몰라.
 //[Reference] 'I didn't mean to suggest I wasn't thankful!'
 staxel.village.dialogue.Alua.line:10001700=당연히 고마워하고는 있어.
 //[Reference] 'Just disappointed. In the circumstances. Not in you.'
-staxel.village.dialogue.Alua.line:10001800=그냥 좀 실망했다는거야. 상황이 그러니까. 너보고 하는 말은 아냐.
+staxel.village.dialogue.Alua.line:10001800=그냥 단지... 실망했을 뿐이야. 상황이 그럴 만 했으니까. 너한테 하는 말은 아니야.
 //[Reference] 'I suppose I should give you some kind of reward?'
-staxel.village.dialogue.Alua.line:10001900=아무래도 네게 보상을 줘야겠지?
+staxel.village.dialogue.Alua.line:10001900=그럼 이렇게 고생한 너에게도 자그마한 보답이라도 줘야겠지?
 //[Reference] 'Maybe that will be of some use to you?'
-staxel.village.dialogue.Alua.line:10002000=뭔가 좀 쓸만한 걸로?
+staxel.village.dialogue.Alua.line:10002000=음... 이정도면 괜찮을까?
 //[Reference] 'Could you deliver that to ^c:1486b0;Oscar^c:pop;?'
-staxel.village.dialogue.Alua.line:10002100=이걸 ^c:1486b0;Oscar^c:pop; 에게 전해주겠어?
+staxel.village.dialogue.Alua.line:10002100=혹시, 이걸 ^c:1486b0;오스카^c:pop;에게 전해줄 수 있어?
 //[Reference] 'I want to thank him too...'
-staxel.village.dialogue.Alua.line:10002200=나도 그에게 고마움을 표할 수 있었으면..
+staxel.village.dialogue.Alua.line:10002200=나도 그에게 이렇게나마 고마움을 표현하고 싶어...
 //[Reference] 'Oh, hello ^c:1486b0;{0-playername}^c:pop;!'
-staxel.village.dialogue.Alua.line:10002300=어, 안녕 ^c:1486b0;{0-playername}^c:pop;!
+staxel.village.dialogue.Alua.line:10002300=어, ^c:1486b0;{0-playername}^c:pop;! 안녕!
 //[Reference] 'How have you fared of late?'
-staxel.village.dialogue.Alua.line:10002400=요즘 어떻게 지내?
+staxel.village.dialogue.Alua.line:10002400=요즈음 어떻게 지내고 있어?
 //[Reference] '^c:1486b0;Oscar^c:pop; really does keep this place tidy...'
-staxel.village.dialogue.Alua.line:10002500=^c:1486b0;Oscar^c:pop; 는 항상 이 곳을 깨끗하게 치워준단 말이야...
+staxel.village.dialogue.Alua.line:10002500=^c:1486b0;오스카^c:pop;가 여기 주변을 항상 깨끗하게 치워준단 말이지...
 //[Reference] 'I wonder how he manages to find the time to clean an entire village of miscreants by himself?'
-staxel.village.dialogue.Alua.line:10002600=궁금해, 이 마을 싹 다 청소하는 거 꽤 걸릴텐데. 그 시간은 다 어디서 나는걸까?
+staxel.village.dialogue.Alua.line:10002600=내가 진짜 궁금한게, 이렇게 청소를 계속 할 수 있는 시간이 어디서 나는걸까? 스스로 챙길 시간도 부족할텐데.
 //[Reference] 'Where do I live?'
-staxel.village.dialogue.Alua.line:10002700=난 어디서 사냐고?
+staxel.village.dialogue.Alua.line:10002700=내가 사는 곳?
 //[Reference] 'Why, I certainly cannot tell you that! We fey value our privacy!'
-staxel.village.dialogue.Alua.line:10002800=왜? 말해주긴 좀 그런걸! 사생활 정도는 지켜져야지!
+staxel.village.dialogue.Alua.line:10002800=음... 왜? 그건 말해줄 순 없는걸! 사생활은 지켜줘야 하는거라구!
 //[Reference] 'Do I miss being coated in rubbish?'
-staxel.village.dialogue.Alua.line:10002900=마을이 더러웠을 때가 그립냐고?
+staxel.village.dialogue.Alua.line:10002900=더러웠던 마을이 그립지 않냐고?
 //[Reference] 'Well... I did spend many a year that way...'
-staxel.village.dialogue.Alua.line:10003000=뭐... 여태껏 그렇게 살아왔었으니까...
+staxel.village.dialogue.Alua.line:10003000=음... 뭐, 그동안 그런 식으로 살아왔으니...
 //[Reference] 'But no, of course not! I had even begun to forget the scent of flowers!'
-staxel.village.dialogue.Alua.line:10003100=그치만 아냐. 당연한 말씀! 그거 때문에 꽃 향기가 어땠는지도 잊었었는데!
+staxel.village.dialogue.Alua.line:10003100=그런데! 당연히 이젠 아니야! 그런 쓰레기로 가득했을 땐 꽃향기조차 모른 채 살았잖아!
