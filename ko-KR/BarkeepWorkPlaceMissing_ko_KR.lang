@@ -1,10 +1,10 @@
-﻿language.code=ko-KR
+language.code=ko-KR
 language=한국어
 //[Reference] 'Why am I not watching over the ^c:1486b0;tavern^c:pop; you ask?'
-staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000100=Why am I not watching over the ^c:1486b0;tavern^c:pop; you ask?
+staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000100=내 ^c:1486b0;선술집^c:pop; 말인가?
 //[Reference] 'It seems some hooligan went and tore part of it down...'
-staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000200=It seems some hooligan went and tore part of it down...
+staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000200=뭔 패당이 와가지고 내 가게를 박살낸 모양이야...
 //[Reference] 'So I'm taking some well deserved time off!'
-staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000300=So I'm taking some well deserved time off!
+staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000300=뭐, 덕분에 휴가도 받고 좋지!
 //[Reference] 'I'll consider getting back to work once it's repaired.'
-staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000400=I'll consider getting back to work once it's repaired.
+staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000400=물론 수리가 다 되거든, 언제 다시 문 열테니 걱정말게.
