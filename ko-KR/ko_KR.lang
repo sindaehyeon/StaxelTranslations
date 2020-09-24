@@ -1948,10 +1948,10 @@ staxel.characters.accessories.shirts.jacket.StuddedJacket.name=스터드 재킷
 staxel.collections.unknown=???
 staxel.collector.accessories.fullBodyOutfits.CollectorGuy.description=
 //[Reference] 'Tomti's Outfit'
-staxel.collector.accessories.fullBodyOutfits.CollectorGuy.name=Tomti의 복장
+staxel.collector.accessories.fullBodyOutfits.CollectorGuy.name=톰티의 복장
 staxel.collector.accessories.fullBodyOutfits.CollectorGuyNoHat.description=
 //[Reference] 'Tomti's Outfit without Hat'
-staxel.collector.accessories.fullBodyOutfits.CollectorGuyNoHat.name=Tomti의 모자없는 복장
+staxel.collector.accessories.fullBodyOutfits.CollectorGuyNoHat.name=톰티의 모자없는 복장
 staxel.collector.accessories.fullBodyOutfits.MayorMaxNoHat.description=
 //[Reference] 'Mayor Max's Outfit without Hat'
 staxel.collector.accessories.fullBodyOutfits.MayorMaxNoHat.name=시장 막스의 모자없는 복장
@@ -2017,7 +2017,7 @@ staxel.collector.item.quest.Flute.description=
 staxel.collector.item.quest.Flute.name=플루트
 staxel.collector.item.quest.TomtiFox.description=
 //[Reference] 'Tomti's Fox'
-staxel.collector.item.quest.TomtiFox.name=Tomti의 여우
+staxel.collector.item.quest.TomtiFox.name=톰티의 여우
 staxel.collector.item.seed.PinkMoonGrassSeedPacket.description=
 //[Reference] 'Pink Moon Grass Seed Packet'
 staxel.collector.item.seed.PinkMoonGrassSeedPacket.name=분홍색 달빛 씨앗 봉지
@@ -2062,7 +2062,7 @@ staxel.collector.tileObject.quest.BedroomGate_Locked.description=
 staxel.collector.tileObject.quest.BedroomGate_Locked.name=침실 출입구 잠김
 staxel.collector.tileObject.villagers.TomtiFoxSpawner.description=
 //[Reference] 'Tomti's Fox Spawner'
-staxel.collector.tileObject.villagers.TomtiFoxSpawner.name=Timti의 여우 스포너
+staxel.collector.tileObject.villagers.TomtiFoxSpawner.name=톰티의 여우 스포너
 //[Reference] 'Alt Controller'
 staxel.controlScheme.altController=대체 컨트롤러
 //[Reference] 'Swapped A&B and X&Y controller scheme.'
@@ -4178,10 +4178,10 @@ staxel.item.Transformations.Remove.description=
 staxel.item.Transformations.Remove.name=변신 제거
 staxel.item.Transformations.Tomti.description=
 //[Reference] 'Tomti'
-staxel.item.Transformations.Tomti.name=Tomti
+staxel.item.Transformations.Tomti.name=톰티
 staxel.item.Transformations.TomtiNoHat.description=
 //[Reference] 'Tomti No Hat'
-staxel.item.Transformations.TomtiNoHat.name=모자 없는 Tomti
+staxel.item.Transformations.TomtiNoHat.name=모자 없는 톰티
 //[Reference] 'Claim Petals'
 staxel.mail.claimPetals=페탈 청구
 //[Reference] '^c:1486b0;$playername;^c:pop;!\n\nI couldn't help overhearing your conversation with ^c:1486b0;Rosemary^c:pop; yesterday (sorry, I wasn't listening on purpose, I swear). See, I was around these parts back then and I swear something wasn't quite right about the whole thing...\n\nMaybe it would be worth having a little wander around the village and seeing if anyone else can remember anything?\n\n^c:1486b0;Farm Fan^c:pop;'
