@@ -1,8 +1,8 @@
 ﻿language.code=ko-KR
 language=한국어
-//TODO Translate [Reference] 'Well, well! One of the inhabitants?'
-staxel.village.dialogue.tourists.BoisterousTourist.line:10000100=
-//TODO Translate [Reference] 'How can you stand living here? It's so...small!'
-staxel.village.dialogue.tourists.BoisterousTourist.line:10000200=
-//TODO Translate [Reference] 'And these statues just seem really out of place!'
-staxel.village.dialogue.tourists.BoisterousTourist.line:10000300=
+//[Reference] 'Well, well! One of the inhabitants?'
+staxel.village.dialogue.tourists.BoisterousTourist.line:10000100=저기요, 여기 사는 사람이에요?
+//[Reference] 'How can you stand living here? It's so...small!'
+staxel.village.dialogue.tourists.BoisterousTourist.line:10000200=어떻게 이런 곳에서 살 수 있어요? 여긴... 너무 좁잖아요!
+//[Reference] 'And these statues just seem really out of place!'
+staxel.village.dialogue.tourists.BoisterousTourist.line:10000300=그리고 여기 조각상은 전혀 어울리지가 않아요!
