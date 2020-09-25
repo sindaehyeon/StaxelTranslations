@@ -368,3 +368,23 @@ staxel.achievements.throw=공 던지기
 staxel.achievements.UseRecipeOverlay=레시피 오버레이 사용
 //[Reference] 'Crops watered'
 staxel.achievements.WaterCrop.text=작물에 물 주기
+//[Reference] 'Catch one of each bug found on the Galaxy Island.'
+staxel.collector.achievements.GalaxyBugs.description=갤럭시 아일랜드에서 나타나는 모든 벌레를 잡으세요.
+//[Reference] 'Galactic Entomology'
+staxel.collector.achievements.GalaxyBugs.name=은하곤충학개론
+//[Reference] 'Catch one of each fish found on the Galaxy Island.'
+staxel.collector.achievements.GalaxyFish.description=갤럭시 아일랜드에서 나타나는 모든 물고기를 잡으세요.
+//[Reference] 'Galactic Ichthyology'
+staxel.collector.achievements.GalaxyFish.name=은하어류학개론
+//[Reference] 'Cook Couscous and Baked Artichoke with Goats Cheese.'
+staxel.collector.achievements.GourmetHideaway.description=쿠스쿠스와 염소 치즈를 곁들인 구운 아티초크를 요리하세요.
+//[Reference] 'Gourmet Hideaway'
+staxel.collector.achievements.GourmetHideaway.name=미식가의 은신처
+//[Reference] 'Harvest Grapes, Artichokes, Purple Nettle and Rhubarb.'
+staxel.collector.achievements.HideawayHarvest.description=포도, 아티초크, 자주광대나물, 루바브를 수확하세요.
+//[Reference] 'Hideaway Harvest'
+staxel.collector.achievements.HideawayHarvest.name=은밀한 수확
+//[Reference] 'Collect Goats Milk and Brown Pheasant Feathers.'
+staxel.collector.achievements.HideawayRancher.description=염소 우유와 갈색 꿩 깃털을 얻으세요.
+//[Reference] 'Hideaway Rancher'
+staxel.collector.achievements.HideawayRancher.name=은밀한 목장주
