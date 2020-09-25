@@ -1,59 +1,59 @@
 ﻿language.code=ko-KR
 language=한국어
-//TODO Translate [Reference] 'Supposedly an achievement is meant to be its own reward, but I personally like it when there's a little something more to sweeten the deal.\nCome see me every now and again and I'll check on what you achieved to see if there's anything really special you deserve to be rewarded for!\n\n^c:1486b0;Farm Fan^c:pop;'
-staxel.mail.AchievementReward=
-//TODO Translate [Reference] 'Re:Achievements'
-staxel.mail.AchievementReward.subject=
-//TODO Translate [Reference] 'Hello, ^c:1486b0;$playername;^c:pop;!\n\nIt sounds like you've been getting on very well with some of the people around here! Perhaps it's time for you to take things to the next level... By that, of course, I mean becoming roomies!\n\nI've included a small package with this mail. You'll find a ^c:d03e37;farmhouse signpost^c:pop; and a ^c:d03e37;friendship bracelet^c:pop; attached. The whole thing works quite simply: all you need to do is set up the ^c:d03e37;signpost^c:pop; in front of your home, like you would any other structure. Then, when you ^c:1486b0;gift^c:pop; the ^c:d03e37;friendship bracelet^c:pop; to your new best friend, they'll have somewhere to move in!\n\nBest of luck!\n\n^c:1486b0;Maximilian^c:pop;\nOffice of the Mayor'
-staxel.mail.BestFriendOptions=
-//TODO Translate [Reference] 'You've got friends!'
-staxel.mail.BestFriendOptions.subject=
-//TODO Translate [Reference] 'Greetings!\n\nI wanted to extend my thanks to you, ^c:1486b0;$playername;^c:pop;, for erecting a suitable house for me in the village. It's been a few decades since my family left our ancestral home, but for various reasons, I have decided to move my lab back to somewhere more remote. Entirely normal reasons, I assure you.\n\nWould you be interested in a possible research position? I'm certain we could come to some sort of arrangement we would both find agreeable. I do imagine I will call upon you to help out with a few of my experiments—in a safe and controlled manner, of course.\n\nRegards,\n^c:1486b0;Cecile^c:pop;'
-staxel.mail.CecileArrival=
-//TODO Translate [Reference] 'Specimen 002'
+//[Reference] 'Supposedly an achievement is meant to be its own reward, but I personally like it when there's a little something more to sweeten the deal.\nCome see me every now and again and I'll check on what you achieved to see if there's anything really special you deserve to be rewarded for!\n\n^c:1486b0;Farm Fan^c:pop;'
+staxel.mail.AchievementReward=도전과제는 그 자체로 충분한 보상이 되겠지만, 진짜 보상을 주는 도전과제라면 그만큼 가장 선호되겠지?\n그러니 매일 날 찾아 와! 그만한 보상을 받을 자격이 되는지, 특별한 것은 있는지 확인해보고 있으면 거기에 걸맞는 보상을 줄게!\n\n^c:1486b0;팜팬^c:pop;
+//[Reference] 'Re:Achievements'
+staxel.mail.AchievementReward.subject=Re:도전과제
+//[Reference] 'Hello, ^c:1486b0;$playername;^c:pop;!\n\nIt sounds like you've been getting on very well with some of the people around here! Perhaps it's time for you to take things to the next level... By that, of course, I mean becoming roomies!\n\nI've included a small package with this mail. You'll find a ^c:d03e37;farmhouse signpost^c:pop; and a ^c:d03e37;friendship bracelet^c:pop; attached. The whole thing works quite simply: all you need to do is set up the ^c:d03e37;signpost^c:pop; in front of your home, like you would any other structure. Then, when you ^c:1486b0;gift^c:pop; the ^c:d03e37;friendship bracelet^c:pop; to your new best friend, they'll have somewhere to move in!\n\nBest of luck!\n\n^c:1486b0;Maximilian^c:pop;\nOffice of the Mayor'
+staxel.mail.BestFriendOptions=안녕하신가요, ^c:1486b0;$playername;^c:pop; 씨!\n\n우리 마을 사람들과 아주 좋은 관계를 맺고 있는 것 같군요! 단지 절친이 되는 것이 최고의 친구 관계라 생각하시겠지만... 그 이상의 관계가 있죠... 바로, 같은 집에서 같이 살아줄 룸메이트가 되는 것입니다!\n\n이 우편에 작은 물품도 함께 포장해서 보냈습니다. 안에는 ^c:d03e37;농장 표지판^c:pop;과 ^c:d03e37;우정 팔찌^c:pop;가 있지요. 아주 간단합니다! 다른 건물처럼, ^c:d03e37;농장 표지판^c:pop;을 당신의 집 앞에 세우세요. 그리고 같이 집에 함께 살고 싶은, 즉 룸메이트가 되고 싶은 친구에게 그 ^c:d03e37;우정 팔찌^c:pop;를 ^c:1486b0;선물^c:pop;로 건네주시면 됩니다. 그러면 그 친구가 당신의 농장에 함께 살아가게 될 겁니다.\n\n행운을 빌겠습니다!\n\n시장 ^c:1486b0;막시밀리안^c:pop;\n
+//[Reference] 'You've got friends!'
+staxel.mail.BestFriendOptions.subject=친구가 되었어요!
+//[Reference] 'Greetings!\n\nI wanted to extend my thanks to you, ^c:1486b0;$playername;^c:pop;, for erecting a suitable house for me in the village. It's been a few decades since my family left our ancestral home, but for various reasons, I have decided to move my lab back to somewhere more remote. Entirely normal reasons, I assure you.\n\nWould you be interested in a possible research position? I'm certain we could come to some sort of arrangement we would both find agreeable. I do imagine I will call upon you to help out with a few of my experiments—in a safe and controlled manner, of course.\n\nRegards,\n^c:1486b0;Cecile^c:pop;'
+staxel.mail.CecileArrival=안녕하신가요!\n\n저의 집을 지어주셔서 고마워요! 그런 고마움의 표현을 전하고자 ^c:1486b0;$playername;^c:pop;씨에게 이렇게 편지로 전하게 되었습니다.\n\n혹시 과학 연구에 관심이 있나요? 저는 당신도 함께 만족할 수 있는 상호합의점을 찾을 수 있을거라 생각합니다. 저는 그쪽의 안전과 신변을 보호할 수 있음을 보증하며, 그 전제 하에 몇 가지 실험에 동참해주시길 바라요!\n\n^c:1486b0;세실^c:pop; 올림.
+//[Reference] 'Specimen 002'
 staxel.mail.CecileArrival.subject=
-//TODO Translate [Reference] '...\n\n...ice...cream...\n\n...mya...\n\nThe rest of the letter is formed of unintelligible scribbling.'
-staxel.mail.CirahnaArrival=
-//TODO Translate [Reference] '???'
-staxel.mail.CirahnaArrival.subject=
-//TODO Translate [Reference] 'Are your tools feeling a bit slow? Back aching in the hot sun? Have too much money floating around in your pocket?\n\nBrand new Magic Crafting Stations!\n\nBuy one today! Available now at a store near you!\n\n\n(Starbits not included)'
-staxel.mail.CirahnaMagic=
-//TODO Translate [Reference] 'Meet your Magic needs!'
-staxel.mail.CirahnaMagic.subject=
-//TODO Translate [Reference] 'Claim Items'
-staxel.mail.claimAll=
-//TODO Translate [Reference] 'Hello ^c:1486b0;$playername;^c:pop;!\n\nI heard about you from ^c:1486b0;Max^c:pop;! He told me you went through a lot of trouble building me a beautiful little house and I can't wait to see it! I hope we can become great friends and that I can manage to bring out the village's sweet tooth!\n\nSee you soon!\n^c:1486b0;Emilia^c:pop;'
-staxel.mail.EmiliaArrival=
-//TODO Translate [Reference] 'Hello!'
-staxel.mail.EmiliaArrival.subject=
-//TODO Translate [Reference] 'Hey!\n\nCan't wait to see the house you built for me! I've heard it's really cool....thanks for that! Do you know if there's a skate park somewhere around? Or maybe a Caith? I'm sure there are plenty of bugs to hunt at least.\n\nI guess I'll see you when I see you!\n\n^c:1486b0;Eris^c:pop;'
-staxel.mail.ErisArrival=
-//TODO Translate [Reference] 'What's up?'
-staxel.mail.ErisArrival.subject=
-//TODO Translate [Reference] 'These are the items I couldn't give to you during our previous conversation.\n\nMake sure to keep your pockets empty next time.\n\nenjoy your day!'
-staxel.mail.genericItemMail=
-//TODO Translate [Reference] 'Your Items'
-staxel.mail.genericItemMail.subject=
-//TODO Translate [Reference] 'So apparently ^c:1486b0;Max^c:pop; asked you to build me a house—I'm so sorry about that! I was sure I gave him enough money to hire a real contractor! Regardless, I'm sure you put in an effort worth of an MLG pro so I'll share some of my winnings with you!\n\nLet me know if you're ever LFG!\n^c:1486b0;Jamie^c:pop;'
-staxel.mail.JamieArrival=
-//TODO Translate [Reference] 'INC'
-staxel.mail.JamieArrival.subject=
-//TODO Translate [Reference] 'So it seems you managed to solve all my riddles. Well done!\n\nYou may think it strange that I tested you this way, but I know the truth; I know who sent you.\n\nIf ^c:1486b0;Jamie^c:pop; really wants me to sign off on his idea, he's going to have to prove he has what it takes.\n\nI'm sure we'll be seeing each other again.\n\nRegards,\nY'
-staxel.mail.JamieExec=
-//TODO Translate [Reference] 'You won this round!'
-staxel.mail.JamieExec.subject=
-//TODO Translate [Reference] 'Please come see me asap.'
-staxel.mail.LeifBestFriend=
-//TODO Translate [Reference] 'A small mistake...'
-staxel.mail.LeifBestFriend.subject=
-//TODO Translate [Reference] 'Thank you for the fuel'
-staxel.mail.LeifFriend=
-//TODO Translate [Reference] '...'
-staxel.mail.LeifFriend.subject=
-//TODO Translate [Reference] 'Dear ^c:1486b0;$playername;^c:pop;,\n\nCongratulations!\n\nYour island has been randomly selected in our latest lottery to receive a total sum of 200,000 Petals, distributed at random amongst the village.\n\nMay your share bring you much joy!\n\nWe thank you for your continued patronage,\n^c:1486b0;Murmur Consortium^c:pop;'
-staxel.mail.Lottery10=
-//TODO Translate [Reference] 'Congratulations!'
-staxel.mail.Lottery10.subject=
+//[Reference] '...\n\n...ice...cream...\n\n...mya...\n\nThe rest of the letter is formed of unintelligible scribbling.'
+staxel.mail.CirahnaArrival=...\n\n...아이스...크림...\n\n...애옹...\n\n...편지의 나머지 부분은 알 수 없는 낙서로 이루어졌네요.
+//[Reference] '???'
+staxel.mail.CirahnaArrival.subject=???
+//[Reference] 'Are your tools feeling a bit slow? Back aching in the hot sun? Have too much money floating around in your pocket?\n\nBrand new Magic Crafting Stations!\n\nBuy one today! Available now at a store near you!\n\n\n(Starbits not included)'
+staxel.mail.CirahnaMagic=지금 도구의 성능이 그닥 별로라고 생각되시나요? 작업하느라 과로로 쓰러진 적도 있다고요? 돈을 대체 어디에 써야 할 지 모르신가요?\n\n그런 당신을 위한 새로운 매직 크래프팅 스테이션이 새로 출시되었습니다!\n\n지금 바로 구매하세요! 가까운 매장에서 확인하실 수 있습니다!\n\n\n스타 비트는 별도입니다.
+//[Reference] 'Meet your Magic needs!'
+staxel.mail.CirahnaMagic.subject=모든 것이 매직! 매직 스테이션!
+//[Reference] 'Claim Items'
+staxel.mail.claimAll=수령하기
+//[Reference] 'Hello ^c:1486b0;$playername;^c:pop;!\n\nI heard about you from ^c:1486b0;Max^c:pop;! He told me you went through a lot of trouble building me a beautiful little house and I can't wait to see it! I hope we can become great friends and that I can manage to bring out the village's sweet tooth!\n\nSee you soon!\n^c:1486b0;Emilia^c:pop;'
+staxel.mail.EmiliaArrival=안녕! ^c:1486b0;$playername;^c:pop;!\n\n^c:1486b0;막시밀리안^c:pop; 시장님께 너에 대한 이야기를 들었어! 날 위해 작고 아름다운 집을 짓는 데 많은 어려움을 겪었다고 들었어! 우리가 좋은 친구가 돼서, 이 마을을 멋지고 활기찬 마을로 만들 수 있길 바랄게!\n\n꼭 다시 보자!\n^c:1486b0;에밀리아^c:pop;
+//[Reference] 'Hello!'
+staxel.mail.EmiliaArrival.subject=안녕!
+//[Reference] 'Hey!\n\nCan't wait to see the house you built for me! I've heard it's really cool....thanks for that! Do you know if there's a skate park somewhere around? Or maybe a Caith? I'm sure there are plenty of bugs to hunt at least.\n\nI guess I'll see you when I see you!\n\n^c:1486b0;Eris^c:pop;'
+staxel.mail.ErisArrival=야!\n\n너가 날 위한 집을 지어줬다는데, 엄청 멋있다고 하더라고? 그래서 도저히 이대로 기다리고만 있을 수가 없더라! 정말 고마워! 그나저나, 거기에도 스케이트 파크 있어? 아니면 케이스는? 거기서도 잡을 벌레랑 곤충들이 많겠지?\n\n나중에 우리 얼굴이라고 보자!\n\n^c:1486b0;에리스^c:pop;
+//[Reference] 'What's up?'
+staxel.mail.ErisArrival.subject=반가워!
+//[Reference] 'These are the items I couldn't give to you during our previous conversation.\n\nMake sure to keep your pockets empty next time.\n\nenjoy your day!'
+staxel.mail.genericItemMail=네 인벤토리가 꽉 차서, 그 때 줄 수 없던 아이템들을 편지랑 함께 보냈어.\n\n다음엔 가방 공간 충분히 비워두고 와.\n\즐거운 하루 보내!
+//[Reference] 'Your Items'
+staxel.mail.genericItemMail.subject=네 물건들
+//[Reference] 'So apparently ^c:1486b0;Max^c:pop; asked you to build me a house—I'm so sorry about that! I was sure I gave him enough money to hire a real contractor! Regardless, I'm sure you put in an effort worth of an MLG pro so I'll share some of my winnings with you!\n\nLet me know if you're ever LFG!\n^c:1486b0;Jamie^c:pop;'
+staxel.mail.JamieArrival=막스 시장님이 너에게 내 집을 지어달라고 한 것 같더라, 그래서 진짜 미안하단 말을 전하고 싶었어! 난 분명 그 사람에게 다른 알바를 들일 정도로 충분한 돈을 줬었거든! 그래도 네가 이 집에 MLG 프로게이머들보다도 큰 노력을 투자했을 거라 생각해!\n\n혹시 같이 게임할 친구가 필요하면 나한테 연락해! 내가 기꺼이 너의 파티원이 되어 줄게!\n^c:1486b0;제이미^c:pop;
+//[Reference] 'INC'
+staxel.mail.JamieArrival.subject=Inc.
+//[Reference] 'So it seems you managed to solve all my riddles. Well done!\n\nYou may think it strange that I tested you this way, but I know the truth; I know who sent you.\n\nIf ^c:1486b0;Jamie^c:pop; really wants me to sign off on his idea, he's going to have to prove he has what it takes.\n\nI'm sure we'll be seeing each other again.\n\nRegards,\nY'
+staxel.mail.JamieExec=이 편지를 읽고 계시다면, 당신이 저의 모든 수수께끼들을 풀었다는 거겠지요. 정말 잘 하셨습니다!\n\n제가 당신에게 이런식으로 시험을 들게 한게 다소 이상해 보이시겠지만, 전 이미 모든 진실을 알고 있습니다. ^c:1486b0;제이미^c:pop;씨가 자신을 대신해서 당신을 제게 보냈다는 사실을 말이죠.\n\n^c:1486b0;제이미^c:pop;씨가 정말로 자신의 아이디어에 서명 해주기를 바라고 계신다면, 자신이 그 생각을 갖고 있다는 것을 증명해야 할 겁니다.\n\n우린 언젠가, 다시 만나게 될겁니다...\n\nY 올림.
+//[Reference] 'You won this round!'
+staxel.mail.JamieExec.subject=당신이 이겼습니다!
+//[Reference] 'Please come see me asap.'
+staxel.mail.LeifBestFriend=빨리 와주세요.
+//[Reference] 'A small mistake...'
+staxel.mail.LeifBestFriend.subject=작은 실수...
+//[Reference] 'Thank you for the fuel'
+staxel.mail.LeifFriend=연료를 주셔서 감사합니다.
+//[Reference] '...'
+staxel.mail.LeifFriend.subject=...
+//[Reference] 'Dear ^c:1486b0;$playername;^c:pop;,\n\nCongratulations!\n\nYour island has been randomly selected in our latest lottery to receive a total sum of 200,000 Petals, distributed at random amongst the village.\n\nMay your share bring you much joy!\n\nWe thank you for your continued patronage,\n^c:1486b0;Murmur Consortium^c:pop;'
+staxel.mail.Lottery10=^c:1486b0;$playername;^c:pop;님께,\n\n축하드립니다!\n\n저희 최신 복권에서 무작위로 선출한 결과, 귀하계서 머무르시는 섬이 당첨되셨습니다! 따라서 총 200,000 어치의 페탈이 모든 당첨된 마을에 배분되었고, 수령하실 수 있는 기회를 갖게 되셨습니다!\n\n당신에게 드리는 이 작은 정성이 크나큰 기쁨이 되기를 바라겠습니다!\n\n여러분의 지속적인 후원에 감사드립니다.\n^c:1486b0;머머 연합체^c:pop;
+//[Reference] 'Congratulations!'
+staxel.mail.Lottery10.subject=축하드립니다!
 //TODO Translate [Reference] '^c:1486b0;Cirahna^c:pop; greets you, ^c:1486b0;$playername;^c:pop;!\n\nSomething...unexpected has happened. ^c:1486b0;Morel^c:pop; is in dire need of aid!\n\nPlease come to ^c:1486b0;Cirahna^c:pop;'s location immediately!'
 staxel.mail.MorelFriendStart=
 //TODO Translate [Reference] 'asdasd'
@@ -62,28 +62,28 @@ staxel.mail.MorelFriendStart.subject=
 staxel.mail.MurmurConsortium.TooManyQuestions=
 //TODO Translate [Reference] 'Too many questions'
 staxel.mail.MurmurConsortium.TooManyQuestions.subject=
-//TODO Translate [Reference] 'You don't have any mail yet...'
-staxel.mail.noMail=
+//[Reference] 'You don't have any mail yet...'
+staxel.mail.noMail=새로 온 편지가 없어요...
 //TODO Translate [Reference] '^c:1486b0;Oscar^c:pop;\n12 Winton Road\nSometown\n\n^c:1486b0;$playername;^c:pop;\nThe farm\nStaxel\n\nDear ^c:1486b0;$playername;^c:pop;,\n\n I hope this letter finds you well. I am writing concerning your involvement in the construction of my new home in Staxel. I offer my sincerest thanks for your efforts.\n\nIt has been many a year since I left the village due to certain unfortunate circumstances. From what I have heard, it would appear you have performed an...adequate job of keeping the village clean since your arrival. Upon my arrival I shall endeavour to render the town ever more pristine.\n\nYours sincerely\n\n^c:1486b0;Oscar^c:pop;'
 staxel.mail.OscarArrival=
-//TODO Translate [Reference] '(no subject)'
-staxel.mail.OscarArrival.subject=
+//[Reference] '(no subject)'
+staxel.mail.OscarArrival.subject=(무제)
 //TODO Translate [Reference] 'Hey ^c:1486b0;$playername;^c:pop;,\n\nNot to worry you, but I believe there may be some disappearances around town. I will be around tomorrow to help.\n\n^c:1486b0;- Rem^c:pop;'
 staxel.mail.RemVisit=
 //TODO Translate [Reference] 'I'm on my way'
 staxel.mail.RemVisit.subject=
 //TODO Translate [Reference] 'Good day!\n\nHere are the items ^c:1486b0;Riah^c:pop; requested be sent to you. I hope nothing was damaged in transit!\n\n^c:1486b0;Maximilian^c:pop;\nOffice of the Mayor'
 staxel.mail.RiahAcquaintance=
-//TODO Translate [Reference] 'A little ship'
-staxel.mail.RiahAcquaintance.subject=
-//TODO Translate [Reference] 'Hey there!\n\nCongrats on your new postbox!\n\nThe name's ^c:1486b0;Robin^c:pop; and I'm one of the two designated postmen for your region, here to give you a few tips. I think ^c:1486b0;Wren^c:pop; was going to send you something too, but knowing her she probably got lost trying to deliver it! I'm joking, of course (send help, I think I made her angry)!\n\nYou'll probably get a few letters from time to time, mostly from other residents looking for help or sending you gifts, but sometimes you might get something from out of town! Doesn't matter which postbox you check either—we're pretty good at making sure your post is exactly where you need it, when you need it! It's probably a good idea to keep an eye on your mail to make sure you don't miss anything important.\n\nHope to catch you on my rounds someday,\n\n^c:1486b0;Robin^c:pop;'
-staxel.mail.RobinIntro=
-//TODO Translate [Reference] 'Hey there!'
-staxel.mail.RobinIntro.subject=
-//TODO Translate [Reference] 'Hi there\n\nI heard you built me a nice little house in the village. I've wanted to get out of the city for a long time.\n\nIt's a bit difficult to know how to thank you properly, but thank you. I'll try to see if I can come up with something better when I see you in person.\n\nI look forward to seeing your farm and petting your animals,\n^c:1486b0;Rosemary^c:pop;'
-staxel.mail.RosemaryArrival=
-//TODO Translate [Reference] 'Hi'
-staxel.mail.RosemaryArrival.subject=
+//[Reference] 'A little ship'
+staxel.mail.RiahAcquaintance.subject=작은 배
+//[Reference] 'Hey there!\n\nCongrats on your new postbox!\n\nThe name's ^c:1486b0;Robin^c:pop; and I'm one of the two designated postmen for your region, here to give you a few tips. I think ^c:1486b0;Wren^c:pop; was going to send you something too, but knowing her she probably got lost trying to deliver it! I'm joking, of course (send help, I think I made her angry)!\n\nYou'll probably get a few letters from time to time, mostly from other residents looking for help or sending you gifts, but sometimes you might get something from out of town! Doesn't matter which postbox you check either—we're pretty good at making sure your post is exactly where you need it, when you need it! It's probably a good idea to keep an eye on your mail to make sure you don't miss anything important.\n\nHope to catch you on my rounds someday,\n\n^c:1486b0;Robin^c:pop;'
+staxel.mail.RobinIntro=안녕하세요!\n\n새로운 우편함을 갖게 되신걸 축하드려요!\n\n저는 ^c:1486b0;로빈^c:pop;이라고 합니다. 그리고 귀하가 머무는 마을에 지정된 두 명의 우체부 중 한 명입니다. 제가 몇 가지 팁을 드릴게요. 제 생각엔 ^c:1486b0;렌^c:pop;이 지금 편지를 쓴 것 같은데, 아무래도 편지를 제대로 들고 가지 않은 것 같아요! 아 물론, 농담입니다! (제발 살려줘 렌 무ㅈ 화났ㅇㅛ)\n\n여기 오는 편지들의 대부분은 버ㄱ/\n여기 오는 편지들의 대부분은 아마 다른 마을 사람들이 도움을 요청하거나 선물을 건네주기 위한 것들입니다. 하지만 간혹 마을 밖에서 오는 편지도 있답니다! 어떤 우편함을 보든 모든 편지를 확인하실 수 있지만 가장 편안 곳에 두는게 가장 좋죠! 편지는 보통 아침에 오니까, 매일 아침마다 우편함을 한번 확인해보세요!\n\n언젠가 서로 직접 대면하면서 봤으면 좋겠어요!\n\n^c:1486b0;로빈^c:pop;
+//[Reference] 'Hey there!'
+staxel.mail.RobinIntro.subject=안녕하세요!
+//[Reference] 'Hi there\n\nI heard you built me a nice little house in the village. I've wanted to get out of the city for a long time.\n\nIt's a bit difficult to know how to thank you properly, but thank you. I'll try to see if I can come up with something better when I see you in person.\n\nI look forward to seeing your farm and petting your animals,\n^c:1486b0;Rosemary^c:pop;'
+staxel.mail.RosemaryArrival=안녕하세요\n\n마을에 아주 멋진 집을 지어주었다고 들었어요. 저는 오래동안 도시에서 벗어나고 싶었어요.\n\n어떻게 감사한 마음을 전해야 할 지 몰라 이렇게 편지라도 적어보아요. 나중에 꼭 만낫으면 좋겠어요.\n\n농장에 동물이 있다면 직접 만나보고 싶어요.\n^c:1486b0;로즈마리^c:pop;
+//[Reference] 'Hi'
+staxel.mail.RosemaryArrival.subject=안녕하세요
 //TODO Translate [Reference] 'What did we say, ^c:1486b0;$playername;^c:pop;?\n\nI was sure I made myself very clear about ensuring that nothing went wrong with ^c:1486b0;Cecile's lab^c:pop;! Please drop by my office at your earliest convenience. We have very important matters to discuss.\n\nRegards,\n^c:1486b0;Maximilian^c:pop;'
 staxel.mail.ScienceHazard=
 //TODO Translate [Reference] 'What did I say?'
@@ -120,7 +120,7 @@ staxel.mail.tutorial.Day6Alt.subject=
 staxel.mail.tutorial.Day7=
 //TODO Translate [Reference] 'Two Soups?'
 staxel.mail.tutorial.Day7.subject=
-//TODO Translate [Reference] 'Dear ^c:1486b0;$playername;^c:pop;.\n\n You've been making great strides in rejuvenating the farm lately. So much so that I think it’s time we properly acknowledge that.\nI’ve got your ^c:d03e37;Farm License^c:pop; all ready to go. Drop by when you’ve got a minute and we’ll make it official!\n\nRegards,\nMax'
+//TODO Translate [Reference] 'Dear ^c:1486b0;$playername;^c:pop;.\n\n You've been making great strides in rejuvenating the farm lately. So much so that I think it’s time we properly acknowledge that.\nI’ve got your ^c:d03e37;Farm License^c:pop; all ready to go. Drop by when you’ve got a minute, and take the attached ^c:1486b0;Registration Letter^c:pop; with you.\n\nRegards,\nMax'
 staxel.mail.tutorial.Day8=
 //TODO Translate [Reference] 'License to Till'
 staxel.mail.tutorial.Day8.subject=
@@ -130,23 +130,23 @@ staxel.mail.tutorial.Day9=
 staxel.mail.tutorial.Day9.subject=
 //TODO Translate [Reference] 'Time to dress spooky!\n\n Remember to visit Brick at the merchant stalls in town for some more Halloween-themed items! \n\n ^c:1486b0;The Staxel devs^c:pop;'
 staxel.mail.update.Halloween1=
-//TODO Translate [Reference] 'Halloween'
-staxel.mail.update.Halloween1.subject=
-//TODO Translate [Reference] 'It has come to our attention that your island is now sending letters and we would like to present to you an offer.\n\nIf you set up an ^c:1486b0;Airship Anchor^c:pop; the ^c:1486b0;Murmur Consortium^c:pop; will send one of it's prestigious members to sell high quality items. All that they will require in the form of payment are ^c:d03e37;'Star Bits'^c:pop;.\n\nAs an added bonus, the ^c:1486b0;Murmur Consortium^c:pop; has already supplied your local shop with equipment designed for ordering directly from the ^c:1486b0;Murmur Consortium's warehouses^c:pop;.\n\nWe thank you for your continued patronage,\n^c:1486b0;Murmur Consortium^c:pop;'
-staxel.mail.VIPMerchants=
-//TODO Translate [Reference] 'Postage and Handling'
-staxel.mail.VIPMerchants.subject=
-//TODO Translate [Reference] 'Hello.\n\nI deliver letters; I don't write them.\n\nRegards,\n^c:1486b0;Wren^c:pop;'
-staxel.mail.WrenIntro=
-//TODO Translate [Reference] 'Greetings.'
-staxel.mail.WrenIntro.subject=
-//TODO Translate [Reference] 'Murmur Consortium'
-staxel.sender.MurmurConsortium=
-//TODO Translate [Reference] 'Rem'
-staxel.sender.Rem=
-//TODO Translate [Reference] 'Robin'
-staxel.sender.Robin=
-//TODO Translate [Reference] '???'
-staxel.sender.Unknown=
-//TODO Translate [Reference] 'Wren'
-staxel.sender.Wren=
+//[Reference] 'Halloween'
+staxel.mail.update.Halloween1.subject=핼러윈
+//[Reference] 'It has come to our attention that your island is now sending letters and we would like to present to you an offer.\n\nIf you set up an ^c:1486b0;Airship Anchor^c:pop; the ^c:1486b0;Murmur Consortium^c:pop; will send one of it's prestigious members to sell high quality items. All that they will require in the form of payment are ^c:d03e37;'Star Bits'^c:pop;.\n\nAs an added bonus, the ^c:1486b0;Murmur Consortium^c:pop; has already supplied your local shop with equipment designed for ordering directly from the ^c:1486b0;Murmur Consortium's warehouses^c:pop;.\n\nWe thank you for your continued patronage,\n^c:1486b0;Murmur Consortium^c:pop;'
+staxel.mail.VIPMerchants=귀하의 섬에서도 이제 우편물을 발송할 수 있게 되어 귀하께 제안을 드리고자 합니다.\n\n저희 ^c:1486b0;머머 연합체^c:pop;로부터 귀하가 계신 곳으로 우수한 회원을 보내 여러분들께 고품질의 상품을 직접 전해드리고자 연락을 드렸습니다, 이를 위해 비행선 착륙장에 ^c:1486b0;비행선 닻^c:pop;을 설치해 주셨으면 하는 바람입니다. 거래에 사용될 화폐는 ^c:d03e37;'스타 비트'^c:pop;입니다.\n\n추가 사항으로, ^c:1486b0;머머 연합체^c:pop;에서는 귀하가 계시는 현지 상점에 ^c:1486b0;머머 연합체의 창고^c:pop;에 직접 접근하여 주문하실 수 있도록 설계된 장비를 공급하였습니다.\n\n여러분의 지속적인 후원에 감사드립니다.\n^c:1486b0;머머 연합체^c:pop;
+//[Reference] 'Postage and Handling'
+staxel.mail.VIPMerchants.subject=우편 요금 및 취급
+//[Reference] 'Hello.\n\nI deliver letters; I don't write them.\n\nRegards,\n^c:1486b0;Wren^c:pop;'
+staxel.mail.WrenIntro=안녕하세요.\n\n저는 편지를 전달하고 있습니다. 물론 편지를 직접 보내는 사람은 아닙니다.\n\n^c:1486b0;렌^c:pop; 올림.
+//[Reference] 'Greetings.'
+staxel.mail.WrenIntro.subject=안녕하십니까.
+//[Reference] 'Murmur Consortium'
+staxel.sender.MurmurConsortium=머머 연합체
+//[Reference] 'Rem'
+staxel.sender.Rem=렘
+//[Reference] 'Robin'
+staxel.sender.Robin=로빈
+//[Reference] '???'
+staxel.sender.Unknown=???
+//[Reference] 'Wren'
+staxel.sender.Wren=렌
