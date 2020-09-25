@@ -1489,6 +1489,8 @@ staxel.category.castle=성
 staxel.category.cave=동굴
 //[Reference] 'Cecile'
 staxel.category.Cecile=세실
+//[Reference] 'Cheese Cake Stand'
+staxel.category.CheeseCakeStand=치즈 케이크 스탠드
 //[Reference] 'Cherry Pie Stand'
 staxel.category.CherryPieStand=체리 파이 스탠드
 //[Reference] 'Chicken Feeding Area'
@@ -1632,6 +1634,8 @@ staxel.category.ice=얼음
 //[Reference] 'icecream'
 staxel.category.icecream=아이스크림
 //[Reference] 'incense'
+//[Reference] 'Iced Cake Stand'
+staxel.category.IcedCakeStand=아이스 케이크 스탠드
 staxel.category.incense=향초
 //[Reference] 'iron'
 staxel.category.iron=철
@@ -1811,6 +1815,8 @@ staxel.category.rabbit=토끼
 staxel.category.rack=선반
 //[Reference] 'range'
 staxel.category.range=레인지
+//[Reference] 'Raspberry Pie Stand'
+staxel.category.RaspberryPieStand=라즈베리 파이 스탠드
 //[Reference] 'Raw Wood'
 staxel.category.rawWood=원목
 //[Reference] 'refrigerator'
@@ -5139,9 +5145,6 @@ staxel.tileObject.crafting.TilingStation.name=타일링 스테이션
 staxel.tileObject.creepyBiome.CampfireLarge.description=
 //[Reference] 'Campfire Large'
 staxel.tileObject.creepyBiome.CampfireLarge.name=큰 캠프파이어
-staxel.tileObject.decoration.TownArch.description=
-//[Reference] 'Town Arch'
-staxel.tileObject.decoration.TownArch.name=아치형 마을 출입구
 staxel.tileObject.decorations.BottledFirefly.description=
 //[Reference] 'Bottled Firefly'
 staxel.tileObject.decorations.BottledFirefly.name=병 속의 반딧불이
@@ -5501,6 +5504,9 @@ staxel.tileObject.gatherable.YellowButterfly.name=노란색 나비
 staxel.tileObject.gatherable.ZebraButterfly.description=
 //[Reference] 'Zebra Butterfly'
 staxel.tileObject.gatherable.ZebraButterfly.name=얼룩무늬 나비
+staxel.tileObject.GuideBookshelf.description=
+//[Reference] 'Guide Bookshelf'
+staxel.tileObject.GuideBookshelf.name=가이드 책 선반
 staxel.tileObject.magic.Cauldron.description=
 //[Reference] 'Cauldron'
 staxel.tileObject.magic.Cauldron.name=솥
@@ -5868,6 +5874,9 @@ staxel.tileObject.patisserie.CakeIcingMachine.name=케이크 아이싱 기계
 staxel.tileObject.patisserie.CarrotCakeStand.description=
 //[Reference] 'Carrot Cake Stand'
 staxel.tileObject.patisserie.CarrotCakeStand.name=당근 케이크 스탠드
+staxel.tileObject.patisserie.CheeseCakeStand.description=
+//[Reference] 'Cheese Cake Stand'
+staxel.tileObject.patisserie.CheeseCakeStand.name=치즈 케이크 스탠드
 staxel.tileObject.patisserie.CherryPieStand.description=
 //[Reference] 'Cherry Pie Stand'
 staxel.tileObject.patisserie.CherryPieStand.name=체리 파이 스탠드
@@ -5877,6 +5886,9 @@ staxel.tileObject.patisserie.ChocolateCakeStand.name=초콜릿 케이크 스탠�
 staxel.tileObject.patisserie.DragonFruitPieStand.description=
 //[Reference] 'Dragon Fruit Pie Stand'
 staxel.tileObject.patisserie.DragonFruitPieStand.name=용과 파이 스탠드
+staxel.tileObject.patisserie.IcedCakeStand.description=
+//[Reference] 'Iced Cake Stand'
+staxel.tileObject.patisserie.IcedCakeStand.name=아이스 케이크 스탠드
 staxel.tileObject.patisserie.JamMakingMachine.description=
 //[Reference] 'Jam Making Machine'
 staxel.tileObject.patisserie.JamMakingMachine.name=잼 제작 기계
@@ -5912,7 +5924,10 @@ staxel.tileObject.patisserie.PeachPieStand.description=
 staxel.tileObject.patisserie.PeachPieStand.name=복숭아 파이 스탠드
 staxel.tileObject.patisserie.PlainCakeStand.description=
 //[Reference] 'Plain Cake Stand'
-staxel.tileObject.patisserie.PlainCakeStand.name=케이크 스탠드
+staxel.tileObject.patisserie.PlainCakeStand.name=플레인 케이크 스탠드
+staxel.tileObject.patisserie.RaspberryPieStand.description=
+//[Reference] 'Raspberry Pie Stand'
+staxel.tileObject.patisserie.RaspberryPieStand.name=라즈베리 파이 스탠드
 staxel.tileObject.patisserie.StrawberryPieStand.description=
 //[Reference] 'Strawberry Pie Stand'
 staxel.tileObject.patisserie.StrawberryPieStand.name=딸기 파이 스탠드
