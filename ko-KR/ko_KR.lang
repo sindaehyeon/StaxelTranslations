@@ -1981,13 +1981,13 @@ staxel.collector.gatherable.catchable.MilkywayOwlfly.description=
 staxel.collector.gatherable.catchable.MilkywayOwlfly.name=은하수 올빼미파리
 staxel.collector.gatherable.catchable.MoonBeamBug.description=
 //[Reference] 'Moon Beam Bug'
-staxel.collector.gatherable.catchable.MoonBeamBug.name=달빛기둥 벌레
+staxel.collector.gatherable.catchable.MoonBeamBug.name=달기둥 벌레
 staxel.collector.gatherable.catchable.MoonButterfly.description=
 //[Reference] 'Moon Butterfly'
-staxel.collector.gatherable.catchable.MoonButterfly.name=달빛 나비
+staxel.collector.gatherable.catchable.MoonButterfly.name=달 나비
 staxel.collector.gatherable.catchable.MoonSnail.description=
 //[Reference] 'Moon Snail'
-staxel.collector.gatherable.catchable.MoonSnail.name=달빛 달팽이
+staxel.collector.gatherable.catchable.MoonSnail.name=빛 달팽이
 staxel.collector.gatherable.catchable.PointedSnail.description=
 //[Reference] 'Pointed Snail'
 staxel.collector.gatherable.catchable.PointedSnail.name=뾰족한 달팽이
@@ -2002,10 +2002,10 @@ staxel.collector.gatherable.catchable.SunburstBeetle.description=
 staxel.collector.gatherable.catchable.SunburstBeetle.name=햇살 딱정벌레
 staxel.collector.gatherable.catchable.SunButterfly.description=
 //[Reference] 'Sun Butterfly'
-staxel.collector.gatherable.catchable.SunButterfly.name=햇빛 나비
+staxel.collector.gatherable.catchable.SunButterfly.name=해 나비
 staxel.collector.gatherable.catchable.SunSnail.description=
 //[Reference] 'Sun Snail'
-staxel.collector.gatherable.catchable.SunSnail.name=햇빛 달팽이
+staxel.collector.gatherable.catchable.SunSnail.name=해 달팽이
 staxel.collector.gatherable.catchable.Woodlouse.description=
 //[Reference] 'Woodlouse'
 staxel.collector.gatherable.catchable.Woodlouse.name=쥐며느리
