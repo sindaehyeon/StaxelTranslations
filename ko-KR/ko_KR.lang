@@ -7434,7 +7434,7 @@ staxel.village.dialogue.ForestBunnyGiveItem.=
 //[Reference] '...'
 staxel.village.dialogue.ForestBunnyGiveItem.line:10000101=...
 //TODO Translate [Reference] 'Galaxy Island has been reset.'
-staxel.village.GalaxyIslandReset=갤럭시 아일랜드가 초기화되었습니다.
+staxel.village.GalaxyIslandReset=은하 섬이 초기화되었습니다.
 //[Reference] 'Material Islands have been reset.'
 staxel.village.materialIslandsReset=섬의 재료가 초기화됐습니다.
 //[Reference] 'You need to complete a quest before your reputation goes any higher with this villager.'
