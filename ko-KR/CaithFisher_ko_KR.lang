@@ -1,16 +1,16 @@
 ﻿language.code=ko-KR
 language=한국어
 //[Reference] 'Myah! ^c:1486b0;{0-playername}^c:pop;!'
-staxel.village.dialogue.CaithFisher.line:10000100=Myah! ^c:1486b0;{0-playername}^c:pop;!
+staxel.village.dialogue.CaithFisher.line:10000100=냐옹! ^c:1486b0;{0-playername}^c:pop;!
 //[Reference] 'Suddenly there's an excellent ^c:1486b0;fishing spot^c:pop; here!'
-staxel.village.dialogue.CaithFisher.line:10000200=Suddenly there's an excellent ^c:1486b0;fishing spot^c:pop; here!
+staxel.village.dialogue.CaithFisher.line:10000200=근처에 무지막지하게 멋진 ^c:1486b0;낚시터^c:pop;가 생겼다!
 //[Reference] 'I'm so moved! I think I'll give you my old ^c:d03e37;fishing rod^c:pop;!'
-staxel.village.dialogue.CaithFisher.line:10000300=I'm so moved! I think I'll give you my old ^c:d03e37;fishing rod^c:pop;!
+staxel.village.dialogue.CaithFisher.line:10000300=나 완전 감동 먹었다! 그 보답으로, 오래됐지만 내 ^c:d03e37;낚싯대^c:pop;를 받아달라냐!
 //[Reference] 'It's a bit worn down, but it still works fine.'
-staxel.village.dialogue.CaithFisher.line:10000400=It's a bit worn down, but it still works fine.
+staxel.village.dialogue.CaithFisher.line:10000400=조금 닳긴 해도, 그래도 꽤 오랫동안 썼으니, 부서지진 않을거다.
 //[Reference] 'Please join me sometime mya!'
-staxel.village.dialogue.CaithFisher.line:10000500=Please join me sometime mya!
+staxel.village.dialogue.CaithFisher.line:10000500=언젠가 나랑 같이 물고기 잡자냐!
 //[Reference] 'You can catch all sorts of tasty fish.'
-staxel.village.dialogue.CaithFisher.line:10000600=You can catch all sorts of tasty fish.
+staxel.village.dialogue.CaithFisher.line:10000600=여기서 온갖 다양한 종류의 물고기들을 잡을 수 있다.
 //[Reference] 'Come talk to me every now and then and I'll teach you what I can!'
-staxel.village.dialogue.CaithFisher.line:10000700=Come talk to me every now and then and I'll teach you what I can!
+staxel.village.dialogue.CaithFisher.line:10000700=알고 싶다면 나한테 다시 말걸어 달라냐! 내가 제대로 알려주겠다냐!
