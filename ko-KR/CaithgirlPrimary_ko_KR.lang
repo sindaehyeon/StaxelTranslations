@@ -1,61 +1,61 @@
 ﻿language.code=ko-KR
 language=한국어
-//TODO Translate [Reference] 'Ice cream, mya? I'd much rather have fish!'
-staxel.village.dialogue.CaithgirlPrimary.line:10000500=
-//TODO Translate [Reference] 'But fishing alone is a little bit intimidating right now mya...'
-staxel.village.dialogue.CaithgirlPrimary.line:10000600=
-//TODO Translate [Reference] 'Especially out in the forests...'
-staxel.village.dialogue.CaithgirlPrimary.line:10000700=
-//TODO Translate [Reference] 'Apparently there's some strange creature moaning and growling...'
-staxel.village.dialogue.CaithgirlPrimary.line:10000800=
-//TODO Translate [Reference] 'It gives me the chills mya...'
-staxel.village.dialogue.CaithgirlPrimary.line:10000900=
-//TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;...'
-staxel.village.dialogue.CaithgirlPrimary.line:10001000=
-//TODO Translate [Reference] 'The other day I was out fishing in the ^c:1486b0;ocean^c:pop;, mya...'
-staxel.village.dialogue.CaithgirlPrimary.line:10001200=
-//TODO Translate [Reference] 'I hooked something really tough! It must've been massive mya!'
-staxel.village.dialogue.CaithgirlPrimary.line:10001300=
-//TODO Translate [Reference] 'But then something terrible happened...'
-staxel.village.dialogue.CaithgirlPrimary.line:10001400=
-//TODO Translate [Reference] 'My line snapped and I went tumbling over and over and over...'
-staxel.village.dialogue.CaithgirlPrimary.line:10001500=
-//TODO Translate [Reference] 'By the time I stopped, whatever it was had escaped, mya.'
-staxel.village.dialogue.CaithgirlPrimary.line:10001600=
-//TODO Translate [Reference] 'It took my ^c:d03e37;lucky hook^c:pop; with it! It must be still stuck in the creature somewhere.'
-staxel.village.dialogue.CaithgirlPrimary.line:10001700=
-//TODO Translate [Reference] 'I'm too scared to go back for it mya... Do you think you could...go for me?'
-staxel.village.dialogue.CaithgirlPrimary.line:10001800=
-//TODO Translate [Reference] 'It's pretty important mya.'
-staxel.village.dialogue.CaithgirlPrimary.line:10001900=
-//TODO Translate [Reference] 'Any luck finding my ^c:d03e37;lucky hook^c:pop;, mya?'
-staxel.village.dialogue.CaithgirlPrimary.line:10002000=
-//TODO Translate [Reference] 'I lost it somewhere out in the ^c:1486b0;ocean^c:pop;...'
-staxel.village.dialogue.CaithgirlPrimary.line:10002100=
-//TODO Translate [Reference] 'Oh...!'
-staxel.village.dialogue.CaithgirlPrimary.line:10002200=
-//TODO Translate [Reference] 'Is that my ^c:d03e37;lucky hook^c:pop; stuck in that ^c:d03e37;bottle^c:pop;, mya?'
-staxel.village.dialogue.CaithgirlPrimary.line:10002300=
-//TODO Translate [Reference] 'It definitely looks like it, mya!'
-staxel.village.dialogue.CaithgirlPrimary.line:10002400=
-//TODO Translate [Reference] 'Can I have that ^c:d03e37;hooked bottle^c:pop;?'
-staxel.village.dialogue.CaithgirlPrimary.line:10002500=
-//TODO Translate [Reference] 'Of course! But what does it say?'
-staxel.village.dialogue.CaithgirlPrimary.line:10002600=
-//TODO Translate [Reference] 'I don't think this is the one.'
-staxel.village.dialogue.CaithgirlPrimary.line:10002700=
-//TODO Translate [Reference] 'Oh... Is that so, mya?'
-staxel.village.dialogue.CaithgirlPrimary.line:10002800=
-//TODO Translate [Reference] 'Let me know if you find my ^c:d03e37;lucky hook^c:pop;, mya...'
-staxel.village.dialogue.CaithgirlPrimary.line:10002900=
-//TODO Translate [Reference] 'I... I don't want to tell you what's in the message, mya...'
-staxel.village.dialogue.CaithgirlPrimary.line:10003000=
-//TODO Translate [Reference] 'Not yet...'
-staxel.village.dialogue.CaithgirlPrimary.line:10003100=
-//TODO Translate [Reference] 'But if you can take this to ^c:1486b0;Max^c:pop; for me, he'll know what to give you.'
-staxel.village.dialogue.CaithgirlPrimary.line:10003200=
-//TODO Translate [Reference] 'And thank you again, mya. You don't know what this ^c:d03e37;hook^c:pop; means...'
-staxel.village.dialogue.CaithgirlPrimary.line:10003300=
+//[Reference] 'Ice cream, mya? I'd much rather have fish!'
+staxel.village.dialogue.CaithgirlPrimary.line:10000500=냐? 아이스크림? 나는 물고기 좋다!
+//[Reference] 'But fishing alone is a little bit intimidating right now mya...'
+staxel.village.dialogue.CaithgirlPrimary.line:10000600=근데 지금은 밖에 나가서 낚시하기가... 무섭다냐...
+//[Reference] 'Especially out in the forests...'
+staxel.village.dialogue.CaithgirlPrimary.line:10000700=특히 숲 밖으로 나가는게...
+//[Reference] 'Apparently there's some strange creature moaning and growling...'
+staxel.village.dialogue.CaithgirlPrimary.line:10000800=가끔씩 이상한 생물이 우는 소리가 들리는 것 같다...
+//[Reference] 'It gives me the chills mya...'
+staxel.village.dialogue.CaithgirlPrimary.line:10000900=으... 소름끼친다냐...
+//[Reference] '^c:1486b0;{0-playername}^c:pop;...'
+staxel.village.dialogue.CaithgirlPrimary.line:10001000=^c:1486b0;{0-playername}^c:pop;...
+//[Reference] 'The other day I was out fishing in the ^c:1486b0;ocean^c:pop;, mya...'
+staxel.village.dialogue.CaithgirlPrimary.line:10001200=어느 날, ^c:1486b0;바다^c:pop;에 간 적이 있다냐...
+//[Reference] 'I hooked something really tough! It must've been massive mya!'
+staxel.village.dialogue.CaithgirlPrimary.line:10001300=근데 엄청나게 큰 놈이 물었다냐!
+//[Reference] 'But then something terrible happened...'
+staxel.village.dialogue.CaithgirlPrimary.line:10001400=근데... 엄청나게 끔찍한 일이 생겼다...
+//[Reference] 'My line snapped and I went tumbling over and over and over...'
+staxel.village.dialogue.CaithgirlPrimary.line:10001500=놈에게 끌려가다가, 줄이 끊어져버리고, 세게 넘어져서 한동안 정신 못차렸다...
+//[Reference] 'By the time I stopped, whatever it was had escaped, mya.'
+staxel.village.dialogue.CaithgirlPrimary.line:10001600=내가 일어날 땐, 이미 녀석은 도망친 뒤었다냐.
+//[Reference] 'It took my ^c:d03e37;lucky hook^c:pop; with it! It must be still stuck in the creature somewhere.'
+staxel.village.dialogue.CaithgirlPrimary.line:10001700=중요한건 녀석이 내 ^c:d03e37;행운의 바늘^c:pop;을 물고 달아난거다냐! 아직 녀석이 물고 있을거다.
+//[Reference] 'I'm too scared to go back for it mya... Do you think you could...go for me?'
+staxel.village.dialogue.CaithgirlPrimary.line:10001800=근데... 돌아가기엔... 너무 무섭다냐... 혹시 날 도와줄 수 있냐...?
+//[Reference] 'It's pretty important mya.'
+staxel.village.dialogue.CaithgirlPrimary.line:10001900=그거 엄청나게 중요한 거다냐...
+//[Reference] 'Any luck finding my ^c:d03e37;lucky hook^c:pop;, mya?'
+staxel.village.dialogue.CaithgirlPrimary.line:10002000=내 ^c:d03e37;행운의 바늘^c:pop;은 찾은거냐...?
+//[Reference] 'I lost it somewhere out in the ^c:1486b0;ocean^c:pop;...'
+staxel.village.dialogue.CaithgirlPrimary.line:10002100=^c:1486b0;바닷가^c:pop; 어딘가에 있을거다냐...
+//[Reference] 'Oh...!'
+staxel.village.dialogue.CaithgirlPrimary.line:10002200=앗...!
+//[Reference] 'Is that my ^c:d03e37;lucky hook^c:pop; stuck in that ^c:d03e37;bottle^c:pop;, mya?'
+staxel.village.dialogue.CaithgirlPrimary.line:10002300=그거 ^c:d03e37;행운의 바늘^c:pop;이 ^c:d03e37;병^c:pop;에 걸려있는거냐?
+//[Reference] 'It definitely looks like it, mya!'
+staxel.village.dialogue.CaithgirlPrimary.line:10002400=확실히 내꺼다냐!
+//[Reference] 'Can I have that ^c:d03e37;hooked bottle^c:pop;?'
+staxel.village.dialogue.CaithgirlPrimary.line:10002500=그 ^c:d03e37;바늘 걸린 병^c:pop;, 나한테 줄 수 있냐?
+//[Reference] 'Of course! But what does it say?'
+staxel.village.dialogue.CaithgirlPrimary.line:10002600=물론! 뭐라고 써있어?
+//[Reference] 'I don't think this is the one.'
+staxel.village.dialogue.CaithgirlPrimary.line:10002700=뭔가 다른 거 아닐까?
+//[Reference] 'Oh... Is that so, mya?'
+staxel.village.dialogue.CaithgirlPrimary.line:10002800=아 그런거냐...
+//[Reference] 'Let me know if you find my ^c:d03e37;lucky hook^c:pop;, mya...'
+staxel.village.dialogue.CaithgirlPrimary.line:10002900=내 ^c:d03e37;행운의 바늘^c:pop; 찾으면 말해달라냐...
+//[Reference] 'I... I don't want to tell you what's in the message, mya...'
+staxel.village.dialogue.CaithgirlPrimary.line:10003000=이... 이건... 읽고 싶지 않다냐...
+//[Reference] 'Not yet...'
+staxel.village.dialogue.CaithgirlPrimary.line:10003100=아직은...
+//[Reference] 'But if you can take this to ^c:1486b0;Max^c:pop; for me, he'll know what to give you.'
+staxel.village.dialogue.CaithgirlPrimary.line:10003200=대신 이걸 ^c:1486b0;막스^c:pop;한테 가져가면 뭔가 알 수 있을지도 모를거다냐.
+//[Reference] 'And thank you again, mya. You don't know what this ^c:d03e37;hook^c:pop; means...'
+staxel.village.dialogue.CaithgirlPrimary.line:10003300=도와줘서 늘 고맙다냐. 이 ^c:d03e37;바늘^c:pop; 없었으면 평생토록 낚시 못했을거다...
 //TODO Translate [Reference] 'Mmm... ^c:1486b0;{0-playername}^c:pop;. Hi, mya.'
 staxel.village.dialogue.CaithgirlPrimary.line:10003400=
 //TODO Translate [Reference] 'Do you have siblings, ^c:1486b0;{0-playername}^c:pop;? Do you see them often?'
@@ -430,9 +430,9 @@ staxel.village.dialogue.CaithgirlPrimary.line:11019900=
 staxel.village.dialogue.CaithgirlPrimary.line:11019910=
 //TODO Translate [Reference] 'Would you like to help me out, mya?'
 staxel.village.dialogue.CaithgirlPrimary.line:11019920=
-//TODO Translate [Reference] 'Please ^c:1486b0;{0-playername}^c:pop;... would you help me out, mya?'
-staxel.village.dialogue.CaithgirlPrimary.line:11019930=
-//TODO Translate [Reference] 'Sure!'
-staxel.village.dialogue.CaithgirlPrimary.line:11019940=
-//TODO Translate [Reference] 'Not yet...'
-staxel.village.dialogue.CaithgirlPrimary.line:11019950=
+//[Reference] 'Please ^c:1486b0;{0-playername}^c:pop;... would you help me out, mya?'
+staxel.village.dialogue.CaithgirlPrimary.line:11019930=냐? 마을을 보호해야 한다고?
+//[Reference] 'Sure!'
+staxel.village.dialogue.CaithgirlPrimary.line:11019940=쓰레기를? 마을을 더렵혀!? 냐하하!
+//[Reference] 'Not yet...'
+staxel.village.dialogue.CaithgirlPrimary.line:11019950=냐! 최선을 다하겠다냐!
