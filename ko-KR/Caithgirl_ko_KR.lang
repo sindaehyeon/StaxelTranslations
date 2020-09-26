@@ -1,20 +1,20 @@
 ﻿language.code=ko-KR
 language=한국어
 //[Reference] 'Mmmya?'
-staxel.village.dialogue.Caithgirl.line:10000100=Mmmya?
+staxel.village.dialogue.Caithgirl.line:10000100=냐?
 //[Reference] 'Do Caiths always end sentences with mya?'
-staxel.village.dialogue.Caithgirl.line:10000200=Do Caiths always end sentences with mya?
+staxel.village.dialogue.Caithgirl.line:10000200=왜 항상 말 끝에 냐를 붙이냐구?
 //[Reference] 'N-no! Just sometimes...'
-staxel.village.dialogue.Caithgirl.line:10000300=N-no! Just sometimes...
+staxel.village.dialogue.Caithgirl.line:10000300=그... 그건... 항상 그런건 아니구...
 //[Reference] '...m-mya...'
-staxel.village.dialogue.Caithgirl.line:10000400=...m-mya...
+staxel.village.dialogue.Caithgirl.line:10000400=...냐...
 //TODO Translate [Reference] 'Ice cream, mya? I'd much rather have fish!'
-staxel.village.dialogue.Caithgirl.line:10000500=
+staxel.village.dialogue.Caithgirl.line:10000500=냐? 아이스크림? 나는 물고기 좋다!
 //TODO Translate [Reference] 'But fishing alone is a little bit intimidating right now mya...'
-staxel.village.dialogue.Caithgirl.line:10000600=
+staxel.village.dialogue.Caithgirl.line:10000600=근데 지금은 밖에 나가서 낚시하기가... 무섭다냐...
 //TODO Translate [Reference] 'Especially out in the forests...'
-staxel.village.dialogue.Caithgirl.line:10000700=
+staxel.village.dialogue.Caithgirl.line:10000700=특히 숲 밖으로 나가는게...
 //TODO Translate [Reference] 'Apparently there's some strange creature moaning and growling...'
-staxel.village.dialogue.Caithgirl.line:10000800=
+staxel.village.dialogue.Caithgirl.line:10000800=가끔씩 이상한 생물이 우는 소리가 들리는 것 같다...
 //TODO Translate [Reference] 'It gives me the chills mya...'
-staxel.village.dialogue.Caithgirl.line:10000900=
+staxel.village.dialogue.Caithgirl.line:10000900=으... 소름끼친다냐...
