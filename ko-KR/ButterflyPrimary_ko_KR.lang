@@ -1,18 +1,18 @@
 ﻿language.code=ko-KR
 language=한국어
-//TODO Translate [Reference] '...'
-staxel.village.dialogue.ButterflyPrimary.line:10000100=
-//TODO Translate [Reference] '...'
-staxel.village.dialogue.ButterflyPrimary.line:10000200=
-//TODO Translate [Reference] 'What...has become of me?'
-staxel.village.dialogue.ButterflyPrimary.line:10000300=
-//TODO Translate [Reference] 'What are these awful appendages?'
-staxel.village.dialogue.ButterflyPrimary.line:10000400=
-//TODO Translate [Reference] 'Change me back.'
-staxel.village.dialogue.ButterflyPrimary.line:10000500=
-//TODO Translate [Reference] 'I demand that you change me back.'
-staxel.village.dialogue.ButterflyPrimary.line:10000600=
-//TODO Translate [Reference] 'My beautiful form...'
-staxel.village.dialogue.ButterflyPrimary.line:10000700=
-//TODO Translate [Reference] 'What have you done to me?'
-staxel.village.dialogue.ButterflyPrimary.line:10000800=
+//[Reference] '...'
+staxel.village.dialogue.ButterflyPrimary.line:10000100=...
+//[Reference] '...'
+staxel.village.dialogue.ButterflyPrimary.line:10000200=...
+//[Reference] 'What...has become of me?'
+staxel.village.dialogue.ButterflyPrimary.line:10000300=대체... 대체 저한테 무슨 일이 일어난거죠?
+//[Reference] 'What are these awful appendages?'
+staxel.village.dialogue.ButterflyPrimary.line:10000400=이 다리는 대체 뭐죠?
+//[Reference] 'Change me back.'
+staxel.village.dialogue.ButterflyPrimary.line:10000500=저를 다시 바꿔줘요.
+//[Reference] 'I demand that you change me back.'
+staxel.village.dialogue.ButterflyPrimary.line:10000600=당신이 절 이렇게 만들었을테니, 다시 절 원래 모습으로 돌려줘요.
+//[Reference] 'My beautiful form...'
+staxel.village.dialogue.ButterflyPrimary.line:10000700=내 아름다운 모습이...
+//[Reference] 'What have you done to me?'
+staxel.village.dialogue.ButterflyPrimary.line:10000800=대체 저한테 뭔 짓을 부린거죠?
