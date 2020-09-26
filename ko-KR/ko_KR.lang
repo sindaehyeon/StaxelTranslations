@@ -2429,7 +2429,7 @@ staxel.crafting.recipes.SmallCrate.name=소형 크레이트
 staxel.crafting.recipes.SmallGear.name=소형 톱니바퀴
 staxel.crafting.recipes.SoupCabbage.description=
 //[Reference] 'Cabbage Soup'
-staxel.crafting.recipes.SoupCabbage.name=양배추 수프
+staxel.crafting.recipes.SoupCabbage.name=배추 수프
 staxel.crafting.recipes.StraightWoodenFence.description=
 //[Reference] 'Straight Wooden Fence'
 staxel.crafting.recipes.StraightWoodenFence.name=직선 나무 울타리
@@ -2535,7 +2535,7 @@ staxel.crop.GoldenBeet.description=이 비트는 완전 반짝이는 황금이�
 staxel.crop.GoldenBeet.name=황금 비트 씨앗
 staxel.crop.GoldenCabbage.description=
 //[Reference] 'Golden Cabbage'
-staxel.crop.GoldenCabbage.name=황금 양배추
+staxel.crop.GoldenCabbage.name=황금 배추
 //[Reference] 'Oh my, this carrot is solid gold!'
 staxel.crop.GoldenCarrot.description=세상에, 황금 당근이에요! 지하 땅굴꾼이 감히 뺏어먹진 못하겠네요!
 //[Reference] 'Golden Carrot Seed'
@@ -3362,7 +3362,7 @@ staxel.item.crops.CoffeeBean.description=
 staxel.item.crops.CoffeeBean.name=커피 콩
 staxel.item.crops.GoldenCabbage.description=
 //[Reference] 'Golden Cabbage'
-staxel.item.crops.GoldenCabbage.name=황금 양배추
+staxel.item.crops.GoldenCabbage.name=황금 배추
 staxel.item.crops.GoldenCoffeeBean.description=
 //[Reference] 'Golden Coffee Bean'
 staxel.item.crops.GoldenCoffeeBean.name=황금 커피 콩
