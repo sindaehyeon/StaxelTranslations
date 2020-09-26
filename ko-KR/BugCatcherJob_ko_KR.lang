@@ -1,36 +1,36 @@
 ﻿language.code=ko-KR
 language=한국어
 //[Reference] 'You should buy a ^c:d03e37;bug net^c:pop;!'
-staxel.village.dialogue.job.BugCatcher.line:10000100=You should buy a ^c:d03e37;bug net^c:pop;!
+staxel.village.dialogue.job.BugCatcher.line:10000100=당장이라도 ^c:d03e37;잠자리채^c:pop; 하나 장만해 둬!
 //[Reference] 'You'll be able to catch all sorts of bugs in the wilderness!'
-staxel.village.dialogue.job.BugCatcher.line:10000200=You'll be able to catch all sorts of bugs in the wilderness!
+staxel.village.dialogue.job.BugCatcher.line:10000200=그걸로 이곳저곳에 있는 벌레들을 잡을 수 있거든!
 //[Reference] 'Some of them can be very useful!'
-staxel.village.dialogue.job.BugCatcher.line:10000300=Some of them can be very useful!
+staxel.village.dialogue.job.BugCatcher.line:10000300=몇몇 벌레는 또 유용하게 쓰일 수도 있다구!
 //[Reference] 'If you wanna find ^c:d03e37;beetles^c:pop;, I'd suggest looking around trees.'
-staxel.village.dialogue.job.BugCatcher.line:10000400=If you wanna find ^c:d03e37;beetles^c:pop;, I'd suggest looking around trees.
+staxel.village.dialogue.job.BugCatcher.line:10000400=^c:d03e37;딱정벌레^c:pop;를 찾고 싶다면, 나무 근처를 살펴보는게 좋아.
 //[Reference] 'They like to hang around on the trunks!'
-staxel.village.dialogue.job.BugCatcher.line:10000500=They like to hang around on the trunks!
+staxel.village.dialogue.job.BugCatcher.line:10000500=걔들은 대부분 나무에 붙어 있거든!
 //[Reference] 'Sometimes you'll come across ^c:d03e37;bees^c:pop; near flowers.'
-staxel.village.dialogue.job.BugCatcher.line:10000600=Sometimes you'll come across ^c:d03e37;bees^c:pop; near flowers.
+staxel.village.dialogue.job.BugCatcher.line:10000600=꽃 근처에 가끔 ^c:d03e37;벌^c:pop;이 있을거야.
 //[Reference] 'If you're lucky, you might even find a ^c:d03e37;queen^c:pop;!'
-staxel.village.dialogue.job.BugCatcher.line:10000700=If you're lucky, you might even find a ^c:d03e37;queen^c:pop;!
+staxel.village.dialogue.job.BugCatcher.line:10000700=운이 좋으면, ^c:d03e37;여왕벌^c:pop;도 잡을 수 있어!
 //[Reference] 'If you like bug catching, I'd suggest investing in a ^c:d03e37;beehive^c:pop;.'
-staxel.village.dialogue.job.BugCatcher.line:10000800=If you like bug catching, I'd suggest investing in a ^c:d03e37;beehive^c:pop;.
+staxel.village.dialogue.job.BugCatcher.line:10000800=벌레 잡는거 좋아해? 그러면 ^c:d03e37;벌집^c:pop; 만들어서 벌들 길러보는건 어때?
 //[Reference] 'When you put in a ^c:d03e37;queen bee^c:pop;, the swarm will start to gather there.'
-staxel.village.dialogue.job.BugCatcher.line:10000900=When you put in a ^c:d03e37;queen bee^c:pop;, the swarm will start to gather there.
+staxel.village.dialogue.job.BugCatcher.line:10000900=^c:d03e37;여왕벌^c:pop;을 벌집 안에다 넣어두면 벌들이 막 모여드는데...
 //[Reference] 'Eventually it'll start producing ^c:d03e37;honey^c:pop;!'
-staxel.village.dialogue.job.BugCatcher.line:10001000=Eventually it'll start producing ^c:d03e37;honey^c:pop;!
+staxel.village.dialogue.job.BugCatcher.line:10001000=어느정도 모이면 걔들이 ^c:d03e37;꿀^c:pop;을 만들기 시작해!
 //[Reference] '^c:d03e37;Rhinoceros beetles^c:pop; are the ultimate beetle.'
-staxel.village.dialogue.job.BugCatcher.line:10001100=^c:d03e37;Rhinoceros beetles^c:pop; are the ultimate beetle.
+staxel.village.dialogue.job.BugCatcher.line:10001100=^c:d03e37;남방장수풍뎅이^c:pop;는 최고의 딱정벌레야.
 //[Reference] 'They're so magnificent there's no contest!'
-staxel.village.dialogue.job.BugCatcher.line:10001200=They're so magnificent there's no contest!
+staxel.village.dialogue.job.BugCatcher.line:10001200=너무 완벽해서, 대회조차 열지 않을 정도거든!
 //[Reference] 'I love hanging out in the forests at night.'
-staxel.village.dialogue.job.BugCatcher.line:10001300=I love hanging out in the forests at night.
+staxel.village.dialogue.job.BugCatcher.line:10001300=나는 밤이 되면 숲에 가서 노는걸 좋아해.
 //[Reference] 'Sometimes you might catch a swarm of ^c:d03e37;fireflies^c:pop;.'
-staxel.village.dialogue.job.BugCatcher.line:10001400=Sometimes you might catch a swarm of ^c:d03e37;fireflies^c:pop;.
+staxel.village.dialogue.job.BugCatcher.line:10001400=그럼 엄청나게 많은 불빛을 내는 ^c:d03e37;반딧불이^c:pop;들을 볼 수 있어! 진짜 아름다운 관경이라니깐.
 //[Reference] 'It's quite something!'
-staxel.village.dialogue.job.BugCatcher.line:10001500=It's quite something!
+staxel.village.dialogue.job.BugCatcher.line:10001500=물론 내가 다 잡아버리지만! 하하!
 //[Reference] 'Bug collecting can be a pretty good source of income.'
-staxel.village.dialogue.job.BugCatcher.line:10001600=Bug collecting can be a pretty good source of income.
+staxel.village.dialogue.job.BugCatcher.line:10001600=벌레를 잡으면 그걸로 꽤 짭짤한 수익을 낼 수도 있어.
 //[Reference] 'Some people are really into getting hold of rare insects!'
-staxel.village.dialogue.job.BugCatcher.line:10001700=Some people are really into getting hold of rare insects!
+staxel.village.dialogue.job.BugCatcher.line:10001700=누군가는 진짜 희귀한 벌레를 잡아서 떼돈을 벌기도 한다던데!
