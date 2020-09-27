@@ -1,8 +1,8 @@
 ﻿language.code=ko-KR
 language=한국어
 //TODO Translate [Reference] 'Why must ^c:1486b0;Max^c:pop; make it so hard to obtain a permit?'
-staxel.village.character.dialogue.CecileLiked.line:10000100=
+staxel.village.character.dialogue.CecileLiked.line:10000100=^c:1486b0;막시밀리안^c:pop; 시장님이 왜 이렇게 허가를 안내려 주실까요?
 //TODO Translate [Reference] 'It's not like I'm trying to make things explode!'
-staxel.village.character.dialogue.CecileLiked.line:10000200=
+staxel.village.character.dialogue.CecileLiked.line:10000200=제가 뭔가를 폭발시키려는게 아닌데 말이죠!
 //TODO Translate [Reference] 'Accidents happen!'
-staxel.village.character.dialogue.CecileLiked.line:10000300=
+staxel.village.character.dialogue.CecileLiked.line:10000300=사소한 사고 정도는 늘 일어나는 법이잖아요?
