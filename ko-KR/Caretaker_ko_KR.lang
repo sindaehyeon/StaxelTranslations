@@ -1,137 +1,137 @@
 ﻿language.code=ko-KR
 language=한국어
-//TODO Translate [Reference] 'Ah, ^c:1486b0;{0-playername}^c:pop;. I was wondering if you might be around.'
-staxel.village.dialogue.Caretaker.line:10000100=
-//TODO Translate [Reference] 'Are you the one who's been leaving rubbish all over the village?'
-staxel.village.dialogue.Caretaker.line:10000200=
-//TODO Translate [Reference] 'Um...no. Not me.'
-staxel.village.dialogue.Caretaker.line:10000300=
-//TODO Translate [Reference] 'Definitely not!'
-staxel.village.dialogue.Caretaker.line:10000400=
-//TODO Translate [Reference] 'I...might have?'
-staxel.village.dialogue.Caretaker.line:10000500=
-//TODO Translate [Reference] 'Well frankly, I'm keeping an eye on you regardless...'
-staxel.village.dialogue.Caretaker.line:10000600=
-//TODO Translate [Reference] 'And someone has to clean everything up. Perhaps this would be a good opportunity to show some goodwill?'
-staxel.village.dialogue.Caretaker.line:10000700=
-//TODO Translate [Reference] 'I see you currently don't have a ^c:d03e37;broom^c:pop;.'
-staxel.village.dialogue.Caretaker.line:10000800=
-//TODO Translate [Reference] 'That's definitely something we'll need to rectify.'
-staxel.village.dialogue.Caretaker.line:10000900=
-//TODO Translate [Reference] 'You can buy one from the ^c:1486b0;local store^c:pop;. I suggest you do so at your earliest convenience.'
-staxel.village.dialogue.Caretaker.line:10001000=
-//TODO Translate [Reference] 'Recently I've been looking for someone who shares my mindset. Someone who can sweep as well as I can.'
-staxel.village.dialogue.Caretaker.line:10001100=
-//TODO Translate [Reference] 'How about you go out there and clean up this village? It's as much your problem as it is mine!'
-staxel.village.dialogue.Caretaker.line:10001200=
-//TODO Translate [Reference] 'I've marked the rubbish on your map. Come back when you've cleaned it all up.'
-staxel.village.dialogue.Caretaker.line:10001300=
-//TODO Translate [Reference] 'Still working diligently? Not quite ready to throw down the broom, I hope?'
-staxel.village.dialogue.Caretaker.line:10001400=
-//TODO Translate [Reference] 'Do let me know once the streets are clean again.'
-staxel.village.dialogue.Caretaker.line:10001500=
-//TODO Translate [Reference] 'A fair first try at cleaning.'
-staxel.village.dialogue.Caretaker.line:10001600=
-//TODO Translate [Reference] 'Though I'm not sure how you missed the enormous mound of rubbish in the middle of the village...'
-staxel.village.dialogue.Caretaker.line:10001610=
-//TODO Translate [Reference] 'Perhaps you could finish off the job and clean the rest of that up?'
-staxel.village.dialogue.Caretaker.line:10001700=
-//TODO Translate [Reference] 'Something about that mound seems...off somehow.'
-staxel.village.dialogue.Caretaker.line:10001800=
-//TODO Translate [Reference] 'I feel as though I've seen something that looks similar...'
-staxel.village.dialogue.Caretaker.line:10001900=
-//TODO Translate [Reference] 'Please do clean it up soon. It's unsettling.'
-staxel.village.dialogue.Caretaker.line:10002000=
-//TODO Translate [Reference] 'Aha. To be honest, I'm surprised you managed to clean up that thoroughly.'
-staxel.village.dialogue.Caretaker.line:10002100=
-//TODO Translate [Reference] 'This will do. For now at least.'
-staxel.village.dialogue.Caretaker.line:10002200=
-//TODO Translate [Reference] 'Consider this a sign that I'm moderately pleased with your work.'
-staxel.village.dialogue.Caretaker.line:10002300=
-//TODO Translate [Reference] 'Do stay in touch. We might actually get along.'
-staxel.village.dialogue.Caretaker.line:10002400=
-//TODO Translate [Reference] 'It keeps happening, ^c:1486b0;{0-playername}^c:pop;...'
-staxel.village.dialogue.Caretaker.line:10002600=
-//TODO Translate [Reference] 'Three times now, I've swept the streets until they practically shone.'
-staxel.village.dialogue.Caretaker.line:10002700=
-//TODO Translate [Reference] 'But again, rubbish strewn everywhere.'
-staxel.village.dialogue.Caretaker.line:10002800=
-//TODO Translate [Reference] 'Do you still have your broom?'
-staxel.village.dialogue.Caretaker.line:10002900=
-//TODO Translate [Reference] 'Perhaps you could make up for the mud you track everywhere by cleaning this mess.'
-staxel.village.dialogue.Caretaker.line:10003000=
-//TODO Translate [Reference] 'I need to rest my back.'
-staxel.village.dialogue.Caretaker.line:10003100=
-//TODO Translate [Reference] 'Ah, a fair job, though if not for my back I would have done it more efficiently.'
-staxel.village.dialogue.Caretaker.line:10003200=
-//TODO Translate [Reference] 'You saw the state of my home...'
-staxel.village.dialogue.Caretaker.line:10003300=
-//TODO Translate [Reference] 'I'm beginning to think someone is targeting me specifically...'
-staxel.village.dialogue.Caretaker.line:10003400=
-//TODO Translate [Reference] 'This may not be our society's usual disregard for the environment...'
-staxel.village.dialogue.Caretaker.line:10003500=
-//TODO Translate [Reference] 'Something far more nefarious is at work!'
-staxel.village.dialogue.Caretaker.line:10003600=
-//TODO Translate [Reference] 'I need you to deliver this note to ^c:1486b0;Maximilian^c:pop;. He needs to know what is becoming of his village.'
-staxel.village.dialogue.Caretaker.line:10003700=
-//TODO Translate [Reference] 'It would never have happened under my watch...'
-staxel.village.dialogue.Caretaker.line:10003800=
-//TODO Translate [Reference] 'Oof. It hurts every time I sweep.'
-staxel.village.dialogue.Caretaker.line:10003900=
-//TODO Translate [Reference] 'Yet I must still sweep. Who else will keep these streets clean?'
-staxel.village.dialogue.Caretaker.line:10004000=
-//TODO Translate [Reference] 'You still haven't tidied up the rubbish I asked you to...'
-staxel.village.dialogue.Caretaker.line:10004100=
-//TODO Translate [Reference] 'What are you waiting for? Take that note to ^c:1486b0;Maximilian^c:pop;!'
-staxel.village.dialogue.Caretaker.line:10004200=
-//TODO Translate [Reference] 'Who knows what the culprit could be vandalising as we speak?'
-staxel.village.dialogue.Caretaker.line:10004300=
-//TODO Translate [Reference] 'Ah, ^c:1486b0;{0-playername}^c:pop;. I was beginning to think you weren't coming back.'
-staxel.village.dialogue.Caretaker.line:10004400=
-//TODO Translate [Reference] 'Not that it would matter, of course. I just want to confirm that my message was delivered.'
-staxel.village.dialogue.Caretaker.line:10004500=
-//TODO Translate [Reference] 'Now, if you wouldn't mind...'
-staxel.village.dialogue.Caretaker.line:10004600=
-//TODO Translate [Reference] 'I've been preparing a last line of defence in case the vandal returns.'
-staxel.village.dialogue.Caretaker.line:10004700=
-//TODO Translate [Reference] 'These all come from my personal stores. Go forth and recruit me an army.'
-staxel.village.dialogue.Caretaker.line:10004800=
-//TODO Translate [Reference] 'I would have you give one to ^c:1486b0;Aliza^c:pop;, ^c:1486b0;Rowan^c:pop;, and ^c:1486b0;Farm Fan^c:pop;.'
-staxel.village.dialogue.Caretaker.line:10004900=
-//TODO Translate [Reference] 'Oh, ^c:1486b0;Leif^c:pop; and ^c:1486b0;Riah^c:pop; too.'
-staxel.village.dialogue.Caretaker.line:10005000=
-//TODO Translate [Reference] 'Give those brooms to ^c:1486b0;Aliza^c:pop;, ^c:1486b0;Rowan^c:pop;, and ^c:1486b0;Farm Fan^c:pop;.'
-staxel.village.dialogue.Caretaker.line:10005100=
-//TODO Translate [Reference] 'Oh, ^c:1486b0;Leif^c:pop; and ^c:1486b0;Riah^c:pop; too.'
-staxel.village.dialogue.Caretaker.line:10005200=
-//TODO Translate [Reference] 'Ah, good work. Could've been a bit snappier, but then you do seem a little slow.'
-staxel.village.dialogue.Caretaker.line:10005300=
-//TODO Translate [Reference] 'Perhaps this will deter the vandal.'
-staxel.village.dialogue.Caretaker.line:10005400=
-//TODO Translate [Reference] 'If not...we may have to do something a little more extreme...'
-staxel.village.dialogue.Caretaker.line:10005500=
-//TODO Translate [Reference] 'For your troubles, ^c:1486b0;{0-playername}^c:pop;. You did well.'
-staxel.village.dialogue.Caretaker.line:10005600=
-//TODO Translate [Reference] '-ish.'
-staxel.village.dialogue.Caretaker.line:10005700=
-//TODO Translate [Reference] 'Shh!'
-staxel.village.dialogue.Caretaker.line:10005800=
-//TODO Translate [Reference] 'This is very serious business. Keep your voice low.'
-staxel.village.dialogue.Caretaker.line:10005900=
-//TODO Translate [Reference] 'I no longer believe ^c:1486b0;Maximilian^c:pop; is doing all he can to apprehend this vandal...'
-staxel.village.dialogue.Caretaker.line:10006000=
-//TODO Translate [Reference] 'Perhaps...no. It's too much to suggest that he might be the vandal himself...'
-staxel.village.dialogue.Caretaker.line:10006100=
-//TODO Translate [Reference] 'Regardless, ^c:1486b0;{0-playername}^c:pop;, I think it's high time I renewed my own political campaign...'
-staxel.village.dialogue.Caretaker.line:10006200=
-//TODO Translate [Reference] 'But we can't do this alone! ^c:1486b0;Aliza^c:pop; knows how to build excellent ^c:d03e37;signboards^c:pop;.'
-staxel.village.dialogue.Caretaker.line:10006300=
-//TODO Translate [Reference] 'I suggest you first go talk to her about that.'
-staxel.village.dialogue.Caretaker.line:10006400=
-//TODO Translate [Reference] 'What are you waiting for, ^c:1486b0;{0-playername}^c:pop;?'
-staxel.village.dialogue.Caretaker.line:10006500=
-//TODO Translate [Reference] 'I can hardly go myself. The others would start to suspect!'
-staxel.village.dialogue.Caretaker.line:10006600=
+//[Reference] 'Ah, ^c:1486b0;{0-playername}^c:pop;. I was wondering if you might be around.'
+staxel.village.dialogue.Caretaker.line:10000100=아, ^c:1486b0;{0-playername}^c:pop; 씨. 여기 있으셨군요.
+//[Reference] 'Are you the one who's been leaving rubbish all over the village?'
+staxel.village.dialogue.Caretaker.line:10000200=이 주변에 쓰레기가 굉장히 많습니다. 혹시, 당신 짓인가요?
+//[Reference] 'Um...no. Not me.'
+staxel.village.dialogue.Caretaker.line:10000300=어... 아닌데...요?
+//[Reference] 'Definitely not!'
+staxel.village.dialogue.Caretaker.line:10000400=나 절대 아니야!
+//[Reference] 'I...might have?'
+staxel.village.dialogue.Caretaker.line:10000500=어... 그...
+//[Reference] 'Well frankly, I'm keeping an eye on you regardless...'
+staxel.village.dialogue.Caretaker.line:10000600=당신의 답변은 중요하지 않습니다 따라서... 솔직히 말씀드리도록 하죠, 전 당신이 이곳에 온 이후로부터 계속 지켜보았습니다.
+//[Reference] 'And someone has to clean everything up. Perhaps this would be a good opportunity to show some goodwill?'
+staxel.village.dialogue.Caretaker.line:10000700=지금 이 마을 내에서 저 외 그 누구도 청소를 하지 않죠, 그리고 쓰레기는 계속 늘어날겁니다, 그리고 전 그걸 또 치우고요. 그렇죠?
+//[Reference] 'I see you currently don't have a ^c:d03e37;broom^c:pop;.'
+staxel.village.dialogue.Caretaker.line:10000800=그러니 당신도 저와 함께 이 선의의 행동에 동참해주셨으면 합니다. ^c:d03e37;빗자루^c:pop; 없으시죠?
+//[Reference] 'That's definitely something we'll need to rectify.'
+staxel.village.dialogue.Caretaker.line:10000900=우선 준비물부터 챙겨야겠군요.
+//[Reference] 'You can buy one from the ^c:1486b0;local store^c:pop;. I suggest you do so at your earliest convenience.'
+staxel.village.dialogue.Caretaker.line:10001000=^c:1486b0;상점^c:pop;에 가셔서 ^c:d03e37;빗자루^c:pop; 한 개 장만해 두세요. 가능한 빨리 오시는게 좋을겁니다.
+//[Reference] 'Recently I've been looking for someone who shares my mindset. Someone who can sweep as well as I can.'
+staxel.village.dialogue.Caretaker.line:10001100=저는 최근에 저와 같은 사고 방식을 공유하는 사람을 물색하고 있었습니다. 물론 저와 같이 청소할 사람을요.
+//[Reference] 'How about you go out there and clean up this village? It's as much your problem as it is mine!'
+staxel.village.dialogue.Caretaker.line:10001200=근데 이 마을에서 청소하는 사람이 왜 저 뿐일까요? 여기가 작은 마을이다고 해도, 한낯 사람 한 명이 치우기에는 너무 버겁습니다!
+//[Reference] 'I've marked the rubbish on your map. Come back when you've cleaned it all up.'
+staxel.village.dialogue.Caretaker.line:10001300=그러니 같이 쓰레기들을 청소하는겁니다. 지도에 쓰레기가 어디에 있는지를 일러두었으니, 치우도록 하세요. 그 뒤에 저에게 보고하세요.
+//[Reference] 'Still working diligently? Not quite ready to throw down the broom, I hope?'
+staxel.village.dialogue.Caretaker.line:10001400=부지런히 일하고 계신가요? 빗자루를 자신의 애인처럼 꽉 붙잡도록 하세요.
+//[Reference] 'Do let me know once the streets are clean again.'
+staxel.village.dialogue.Caretaker.line:10001500=거리가 깨끗해지면 저에게 보고하도록 하세요.
+//[Reference] 'A fair first try at cleaning.'
+staxel.village.dialogue.Caretaker.line:10001600=이제 둘이서 청소 시작이 이루어졌군요.
+//[Reference] 'Though I'm not sure how you missed the enormous mound of rubbish in the middle of the village...'
+staxel.village.dialogue.Caretaker.line:10001610=이제 할 일은, 마을 광장에 대놓고 있는 거대한 쓰레기를 청소한느겁니다.
+//[Reference] 'Perhaps you could finish off the job and clean the rest of that up?'
+staxel.village.dialogue.Caretaker.line:10001700=방금 일을 끝내고 오신 것 같으신데, 기왕 하는김에 바로 그 쓰레기 더미들을 없애버리죠.
+//[Reference] 'Something about that mound seems...off somehow.'
+staxel.village.dialogue.Caretaker.line:10001800=그 쓰레기 더미가 뭐든 간에 치워버려야 합니다.
+//[Reference] 'I feel as though I've seen something that looks similar...'
+staxel.village.dialogue.Caretaker.line:10001900=뭔가... 비슷해 보이는 모양이긴 하지만...
+//[Reference] 'Please do clean it up soon. It's unsettling.'
+staxel.village.dialogue.Caretaker.line:10002000=아, 빨리 청소하십시오. 보고 있자니 정녕 소름이 끼치는군요.
+//[Reference] 'Aha. To be honest, I'm surprised you managed to clean up that thoroughly.'
+staxel.village.dialogue.Caretaker.line:10002100=음, 지금 제가 갖는 당신에 대한 생각은... 정말 놀라울 정도입니다. 이렇게 철저하게 청소를 하는 사람은 여태껏 없었거든요.
+//[Reference] 'This will do. For now at least.'
+staxel.village.dialogue.Caretaker.line:10002200=이제 이정도로 충분합니다. 지금 당장은 말이죠.
+//[Reference] 'Consider this a sign that I'm moderately pleased with your work.'
+staxel.village.dialogue.Caretaker.line:10002300=이것은 당신의 그 행동에 제가 보답하는 의미로 드리는 것입니다.
+//[Reference] 'Do stay in touch. We might actually get along.'
+staxel.village.dialogue.Caretaker.line:10002400=언제나 이런 모습을 유지해주세요. 저와 당신은 어쩌면... 좋은 관계가 될 수 있을겁니다.
+//[Reference] 'It keeps happening, ^c:1486b0;{0-playername}^c:pop;...'
+staxel.village.dialogue.Caretaker.line:10002600=^c:1486b0;{0-playername}^c:pop; 씨... 아직도 계속해서 나타나고 있습니다...
+//[Reference] 'Three times now, I've swept the streets until they practically shone.'
+staxel.village.dialogue.Caretaker.line:10002700=지금까지 세 번째, 거리가 진짜 눈이 부시보록 거리를 닦고 또 닦았습니다.
+//[Reference] 'But again, rubbish strewn everywhere.'
+staxel.village.dialogue.Caretaker.line:10002800=그럼에도, 결국 쓰레기가 다시 생겨버리고 말았죠.
+//[Reference] 'Do you still have your broom?'
+staxel.village.dialogue.Caretaker.line:10002900=아직 빗자루 가지고 계시죠?
+//[Reference] 'Perhaps you could make up for the mud you track everywhere by cleaning this mess.'
+staxel.village.dialogue.Caretaker.line:10003000=일단 이 마구 생겨나는 진흙 투성이들을 청소해야 합니다. 당신은 이 진흙이 어디로 가는지를 추적해주셨으면 합니다.
+//[Reference] 'I need to rest my back.'
+staxel.village.dialogue.Caretaker.line:10003100=저는... 너무 열심히 청소한 나머지, 등이 너무 아프군요...
+//[Reference] 'Ah, a fair job, though if not for my back I would have done it more efficiently.'
+staxel.village.dialogue.Caretaker.line:10003200=아, 우리 둘이서 참 열심히 했군요. 이 아픈 등만 아니었으면, 훨씬 더 효율적이었을텐데 말이죠...
+//[Reference] 'You saw the state of my home...'
+staxel.village.dialogue.Caretaker.line:10003300=일단 저희 집에서 좀 상황을 알아봐야겠습니다...
+//[Reference] 'I'm beginning to think someone is targeting me specifically...'
+staxel.village.dialogue.Caretaker.line:10003400=알 수 없는 누군가가 절 집요하게 주시하는 듯한... 그런 느낌이 들거든요.
+//[Reference] 'This may not be our society's usual disregard for the environment...'
+staxel.village.dialogue.Caretaker.line:10003500=어쩌면, 우리 생활 환경에 크나큰 위협으로 여겨질 수도 있습니다...
+//[Reference] 'Something far more nefarious is at work!'
+staxel.village.dialogue.Caretaker.line:10003600=만약 진짜라면, 그것은 분명 정말 끔찍하고도 사악한 일일겁니다!
+//[Reference] 'I need you to deliver this note to ^c:1486b0;Maximilian^c:pop;. He needs to know what is becoming of his village.'
+staxel.village.dialogue.Caretaker.line:10003700=^c:1486b0;막시밀리안 시장님^c:pop;께 이 메모를 전해주세요. 시장님은 자신의 마을이 어떻게 돌아가는지를 똑똑히 알아야 합니다.
+//[Reference] 'It would never have happened under my watch...'
+staxel.village.dialogue.Caretaker.line:10003800==다신 내 두 눈 앞에 이런 일이 일어나지 않게 만들겁니다...
+//[Reference] 'Oof. It hurts every time I sweep.'
+staxel.village.dialogue.Caretaker.line:10003900=으으... 허리 굽히는 것 조차 고통스럽군요...
+//[Reference] 'Yet I must still sweep. Who else will keep these streets clean?'
+staxel.village.dialogue.Caretaker.line:10004000=그래도 이 청소 작업은 멈추지 않을겁니다. 제가 아니면 대체 누가 이 거리를 깨끗하게 청소할까요?
+//[Reference] 'You still haven't tidied up the rubbish I asked you to...'
+staxel.village.dialogue.Caretaker.line:10004100=당신은 아직 제가 요구한 쓰레기들을 청소하지 않으셨군요...
+//[Reference] 'What are you waiting for? Take that note to ^c:1486b0;Maximilian^c:pop;!'
+staxel.village.dialogue.Caretaker.line:10004200=여기서 왜 멀뚱멀뚱 서계시는지요? 어서 그 메모지를 ^c:1486b0;시장님^c:pop;께 전해주세요!
+//[Reference] 'Who knows what the culprit could be vandalising as we speak?'
+staxel.village.dialogue.Caretaker.line:10004300=지금 우리가 이렇게 잡담이나 나누는 동안 범인은 또 다른 훼손을 만들어낼겁니다!
+//[Reference] 'Ah, ^c:1486b0;{0-playername}^c:pop;. I was beginning to think you weren't coming back.'
+staxel.village.dialogue.Caretaker.line:10004400=아, ^c:1486b0;{0-playername}^c:pop; 씨. 전 당신이 안 돌아오는 줄 알았습니다.
+//[Reference] 'Not that it would matter, of course. I just want to confirm that my message was delivered.'
+staxel.village.dialogue.Caretaker.line:10004500=물론 그런 부분은 중요한게 아닙니다. ^c:1486b0;시장님^c:pop;께 저의 메모지를 잘 전달했나요?
+//[Reference] 'Now, if you wouldn't mind...'
+staxel.village.dialogue.Caretaker.line:10004600=음, 괜찮으시다면...
+//[Reference] 'I've been preparing a last line of defence in case the vandal returns.'
+staxel.village.dialogue.Caretaker.line:10004700=제가 범인이 돌아올 것을 대비하기 위해, 마지막 방어선을 마련해 두었습니다.
+//[Reference] 'These all come from my personal stores. Go forth and recruit me an army.'
+staxel.village.dialogue.Caretaker.line:10004800=이건 다 제가 개인적으로 준비한 것입니다. 우리는 일종의 군대를 만들겁니다. 마을 사람들도 함께 행동으로 보여주는겁니다.
+//[Reference] 'I would have you give one to ^c:1486b0;Aliza^c:pop;, ^c:1486b0;Rowan^c:pop;, and ^c:1486b0;Farm Fan^c:pop;.'
+staxel.village.dialogue.Caretaker.line:10004900=우선 ^c:1486b0;앨리자^c:pop; 씨, ^c:1486b0;로완^c:pop; 씨, 그리고 ^c:1486b0;팜팬^c:pop; 씨에게 이 빗자루를 하나씩 지급해주세요.
+//[Reference] 'Oh, ^c:1486b0;Leif^c:pop; and ^c:1486b0;Riah^c:pop; too.'
+staxel.village.dialogue.Caretaker.line:10005000=아 그리고, ^c:1486b0;리프^c:pop; 씨랑 ^c:1486b0;리아^c:pop; 씨도요.
+//[Reference] 'Give those brooms to ^c:1486b0;Aliza^c:pop;, ^c:1486b0;Rowan^c:pop;, and ^c:1486b0;Farm Fan^c:pop;.'
+staxel.village.dialogue.Caretaker.line:10005100=^c:1486b0;앨리자^c:pop; 씨, ^c:1486b0;로완^c:pop; 씨, 그리고 ^c:1486b0;팜팬^c:pop; 씨에게 이 빗자루를 하나씩 지급해주세요.
+//[Reference] 'Oh, ^c:1486b0;Leif^c:pop; and ^c:1486b0;Riah^c:pop; too.'
+staxel.village.dialogue.Caretaker.line:10005200=^c:1486b0;리프^c:pop; 씨랑 ^c:1486b0;리아^c:pop; 씨도요.
+//[Reference] 'Ah, good work. Could've been a bit snappier, but then you do seem a little slow.'
+staxel.village.dialogue.Caretaker.line:10005300=아, 잘 하셨습니다. 당신은 빠르게 전달하고 오실 수 있으셨을텐데, 늦으셨더군요.
+//[Reference] 'Perhaps this will deter the vandal.'
+staxel.village.dialogue.Caretaker.line:10005400=이제 더러운 마을 훼손은 웬만해선 일어나지 않을 겁니다.
+//[Reference] 'If not...we may have to do something a little more extreme...'
+staxel.village.dialogue.Caretaker.line:10005500=이럼에도 여전히 일어나게 된다면... 좀 더 극단적인 수준의 선택을 해야할지도요.
+//[Reference] 'For your troubles, ^c:1486b0;{0-playername}^c:pop;. You did well.'
+staxel.village.dialogue.Caretaker.line:10005600=^c:1486b0;{0-playername}^c:pop; 씨, 수고하셨습니다. 잘 해주셨습니다.
+//[Reference] '-ish.'
+staxel.village.dialogue.Caretaker.line:10005700=... 어느정도는 말이죠.
+//[Reference] 'Shh!'
+staxel.village.dialogue.Caretaker.line:10005800=쉬잇!
+//[Reference] 'This is very serious business. Keep your voice low.'
+staxel.village.dialogue.Caretaker.line:10005900=이건 매우 심각한 일입니다. 목소리를 낮추세요.
+//[Reference] 'I no longer believe ^c:1486b0;Maximilian^c:pop; is doing all he can to apprehend this vandal...'
+staxel.village.dialogue.Caretaker.line:10006000=^c:1486b0;시장님^c:pop;이 그 범인을 잡을거라는 믿음이 이젠 거의 사라졌습니다...
+//[Reference] 'Perhaps...no. It's too much to suggest that he might be the vandal himself...'
+staxel.village.dialogue.Caretaker.line:10006100=어쩌면 범인이... 아니. 아니야. 만약 시장님이 범인이라면, 훨씬 더 끔찍한 일이야...
+//[Reference] 'Regardless, ^c:1486b0;{0-playername}^c:pop;, I think it's high time I renewed my own political campaign...'
+staxel.village.dialogue.Caretaker.line:10006200=뭐가 어찌되었든, ^c:1486b0;{0-playername}^c:pop; 씨, 이제 저의 정치적 캠페인을 실현할 때가 왔다고 생각합니다.
+//[Reference] 'But we can't do this alone! ^c:1486b0;Aliza^c:pop; knows how to build excellent ^c:d03e37;signboards^c:pop;.'
+staxel.village.dialogue.Caretaker.line:10006300=허나 이 일은 혼자서 할 수 있는게 아닙니다. ^c:1486b0;앨리자^c:pop; 씨라면 분명 훌륭한 ^c:d03e37;표지판^c:pop;을 만드는 방법을 알겁니다.
+//[Reference] 'I suggest you first go talk to her about that.'
+staxel.village.dialogue.Caretaker.line:10006400=일단 바로 ^c:1486b0;앨리자^c:pop; 씨와 이야기를 나눠보세요.
+//[Reference] 'What are you waiting for, ^c:1486b0;{0-playername}^c:pop;?'
+staxel.village.dialogue.Caretaker.line:10006500=^c:1486b0;{0-playername}^c:pop; 씨? 왜 여기 서서 멀뚱거리시는거죠?
+//[Reference] 'I can hardly go myself. The others would start to suspect!'
+staxel.village.dialogue.Caretaker.line:10006600=저는 갈 순 없습니다. 다른 사람들이 절 의심하고 있단 말입니다!
 //TODO Translate [Reference] 'Ah, decent work, ^c:1486b0;{0-playername}^c:pop;. I trust she didn't suspect?'
 staxel.village.dialogue.Caretaker.line:10006700=
 //TODO Translate [Reference] 'Now, I think a decent first batch would be about ten, wouldn't you say?'
