@@ -1,20 +1,20 @@
 ﻿language.code=ko-KR
 language=한국어
 //[Reference] 'Well now, this is just what the village needed!'
-staxel.village.dialogue.intro.Cecile.line:10000100=Well now, this is just what the village needed!
+staxel.village.dialogue.intro.Cecile.line:10000100=좋아, 이제 마을에서 필요한 것은...
 //[Reference] 'Fresh bloo- no. Mea- hm. Eloquence, eloquence.'
-staxel.village.dialogue.intro.Cecile.line:10000200=Fresh bloo- no. Mea- hm. Eloquence, eloquence.
+staxel.village.dialogue.intro.Cecile.line:10000200=신선한 혈 아니, 고... 으흠, 크흐흠...
 //[Reference] 'Aha!'
-staxel.village.dialogue.intro.Cecile.line:10000300=Aha!
+staxel.village.dialogue.intro.Cecile.line:10000300=아아!
 //[Reference] 'I'm ^c:1486b0;{0-name}^c:pop; and I have absolutely no intention of using you as a test subject!'
-staxel.village.dialogue.intro.Cecile.line:10000400=I'm ^c:1486b0;{0-name}^c:pop; and I have absolutely no intention of using you as a test subject!
-//TODO Translate [Reference] 'Oh! If it isn't ^c:1486b0;{0-playername}^c:pop;!'
-staxel.village.dialogue.intro.Cecile.line:10000500=
-//TODO Translate [Reference] '^c:1486b0;Maximilian^c:pop; tells me you were behind the construction of my new lab!'
-staxel.village.dialogue.intro.Cecile.line:10000600=
-//TODO Translate [Reference] 'This is a little something for your troubles, though I really cannot thank you enough.'
-staxel.village.dialogue.intro.Cecile.line:10000700=
-//TODO Translate [Reference] 'I'm ^c:1486b0;{0-name}^c:pop;. Do let me know if you happen to be interested in science.'
-staxel.village.dialogue.intro.Cecile.line:10000800=
-//TODO Translate [Reference] 'I'm always on the lookout for new subj- assistants!'
-staxel.village.dialogue.intro.Cecile.line:10000900=
+staxel.village.dialogue.intro.Cecile.line:10000400=우리 초면이죠? 나는 ^c:1486b0;{0-name}^c:pop;이라고 해요. 그리고 난 절대로 그쪽을 실험체로 쓸 생각은 없답니다!
+//[Reference] 'Oh! If it isn't ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.intro.Cecile.line:10000500=아! 그쪽 이름이 ^c:1486b0;{0-playername}^c:pop;인가요? 맞죠?
+//[Reference] '^c:1486b0;Maximilian^c:pop; tells me you were behind the construction of my new lab!'
+staxel.village.dialogue.intro.Cecile.line:10000600=^c:1486b0;막시밀리안^c:pop; 시장님이 말씀하시길, 날 위한 새로운 연구소의 건축을 계획하고 진행한 사람이 그쪽이라고 들었어요!
+//[Reference] 'This is a little something for your troubles, though I really cannot thank you enough.'
+staxel.village.dialogue.intro.Cecile.line:10000700=그래서 이건 제 성의로... 작은거긴 하지만, 그래도 받아줘요!
+//[Reference] 'I'm ^c:1486b0;{0-name}^c:pop;. Do let me know if you happen to be interested in science.'
+staxel.village.dialogue.intro.Cecile.line:10000800=^c:1486b0;{0-name}^c:pop;씨, 혹시 과학에 관심 있다면 꼭 나한테 와요.
+//[Reference] 'I'm always on the lookout for new subj- assistants!'
+staxel.village.dialogue.intro.Cecile.line:10000900=난 언제나 건강한 연... 아 아니, 멋진 조수를 찾고 있으니까요!
