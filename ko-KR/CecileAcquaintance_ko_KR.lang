@@ -1,8 +1,8 @@
 ﻿language.code=ko-KR
 language=한국어
-//TODO Translate [Reference] 'Supposedly, my grandmother used to run a ^c:1486b0;grocery store^c:pop; around here...'
-staxel.village.character.dialogue.CecileAcquaintance.line:10000100=
-//TODO Translate [Reference] 'I heard she ran off to the big city as soon as she saw her chance!'
-staxel.village.character.dialogue.CecileAcquaintance.line:10000200=
-//TODO Translate [Reference] 'Not sure what happened to the store after that though.'
-staxel.village.character.dialogue.CecileAcquaintance.line:10000300=
+//[Reference] 'Supposedly, my grandmother used to run a ^c:1486b0;grocery store^c:pop; around here...'
+staxel.village.character.dialogue.CecileAcquaintance.line:10000100=저희 할머니께서 이 근처에서 ^c:1486b0;식료품점^c:pop;을 운영하셨던 적이 있어요...
+//[Reference] 'I heard she ran off to the big city as soon as she saw her chance!'
+staxel.village.character.dialogue.CecileAcquaintance.line:10000200=할머니는 늘 기회가 되면 큰 도시로 나간다고 하셨죠!
+//[Reference] 'Not sure what happened to the store after that though.'
+staxel.village.character.dialogue.CecileAcquaintance.line:10000300=그 뒤의 가게는... 잘 모르겠네요.
