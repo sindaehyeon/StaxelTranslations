@@ -88,7 +88,7 @@ staxel.infoBook.building.overview.line1=당신이 바쁜 농장 생활이나 섬
 //[Reference] 'Tiles'
 staxel.infoBook.building.tiles=타일
 //[Reference] 'Building tiles and materials can be purchased in town from ^Aliza’s% building store or from the catalogue, but you can craft a lot of the items you need instead to save yourself a few ^Petals%. You can see your known crafting ^recipes% by selecting the crafting tab above your inventory and browsing recipes according to their material type using the subcategories on the left-hand side.'
-staxel.infoBook.building.tiles.line1=^앨리자%의 상점이나 카탈로그에서 건축 타일과 재료를 구매할 수 있지만 무언가를 구매하는 것은 ^페탈%을 필요로 합니다. 그러므로 자금을 덜 들이는 방법으로 직접 제작하는 방법을 사용할 수 있습니다. 이미 알고 있는 ^레시피%는 인벤토리를 연 뒤 상단 제작 탭을 선택하고 왼쪽 하위 분류를 택해 각 원하는 종류의 레시피를 찾아 만들 수 있습니다.
+staxel.infoBook.building.tiles.line1=^앨리자%의 상점이나 카탈로그에서 건축 타일과 재료를 구매할 수 있지만 무언가를 구매하는 것은 ^페탈%을 필요로 합니다. 그러므로 자금을 덜 소모하는 방법으로 직접 자재들을 제작하여 사용할 수 있습니다. 이미 알고 있는 ^레시피%는 인벤토리를 연 뒤 상단 제작 탭을 선택하고 왼쪽 하위 분류를 택해 각 원하는 종류의 레시피를 찾아 만들 수 있습니다.
 //[Reference] '^Marker% requirements don’t generally ask for a specific tile colour or design so you can be as creative as you like when you’re planning out your project.'
 staxel.infoBook.building.tiles.line2=^마커%의 요구 사항은 일반적으로 특정 타일 색상이나 디자인을 요구하지 않으므로 프로젝트를 계획할 때 원하는 만큼 창의적으로 만들 수 있습니다.
 //[Reference] 'Building'
