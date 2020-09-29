@@ -4645,6 +4645,22 @@ staxel.plant.gatherable.Wildberry.name=산딸기
 staxel.plant.LongTropicalGrass.description=
 //[Reference] 'Long Tropical Grass'
 staxel.plant.LongTropicalGrass.name=긴 열대 잔디
+//TODO Translate [Reference] 'Seems to be quite attractive to butterflies.'
+staxel.plant.quest.ButterflyAttractor.tile.description=나비를 끌어당기는 매력이 있어 보입니다.
+//TODO Translate [Reference] 'Butterfly Attractor'
+staxel.plant.quest.ButterflyAttractor.tile.name=나비 유인책
+//TODO Translate [Reference] 'Seems to be quite attractive to butterflies.'
+staxel.plant.quest.ButterFlyAttractor.description=나비를 끌어당기는 매력이 있어 보입니다.
+//TODO Translate [Reference] 'Butterfly Attractor'
+staxel.plant.quest.ButterFlyAttractor.name=나비 유인책
+//TODO Translate [Reference] 'A turnip of large proportions.'
+staxel.plant.quest.GaintTurnipNoQuest.description=커다란 크기의 순무입니다.
+//TODO Translate [Reference] 'Gaint Turnip'
+staxel.plant.quest.GaintTurnipNoQuest.name=거대 순무
+//TODO Translate [Reference] 'These weird seeds may turn out to become big.'
+staxel.plant.quest.GaintTurnipNoQuest.tile.description=이 이상한 씨앗은 계속 커집니다.
+//TODO Translate [Reference] 'Giant Turnip'
+staxel.plant.quest.GaintTurnipNoQuest.tile.name=거대 순무
 staxel.plant.quest.RainbowButterfly.description=
 //[Reference] 'Rainbow Butterfly'
 staxel.plant.quest.RainbowButterfly.name=무지개 나비
