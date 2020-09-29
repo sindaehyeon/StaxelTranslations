@@ -1490,7 +1490,6 @@ staxel.tileObject.serverVillage.Bed.double.red.description=잘 만들어진 편�
 staxel.tileObject.serverVillage.Bed.double.red.name=심플한 빨간색 더블 침대
 //[Reference] 'A comfortable, well made, single bed.'
 staxel.tileObject.serverVillage.Bed.single.black.description=잘 만들어진 편안한 침대입니다.
-//[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Simply Black Single Bed'
 staxel.tileObject.serverVillage.Bed.single.black.name=심플한 검은색 싱글 침대
 //[Reference] 'A comfortable, well made, single bed.'
@@ -1519,7 +1518,6 @@ staxel.tileObject.serverVillage.BoilingStation.description=음식이나 액체�
 staxel.tileObject.serverVillage.BoilingStation.name=가열 스테이션
 //[Reference] 'Place things on it!'
 staxel.tileObject.serverVillage.Bookshelf.description=이 위에 물건을 올려놓으세요!
-//[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Storage BookShelf'
 staxel.tileObject.serverVillage.Bookshelf.name=보관형 책 선반
 //[Reference] 'Simple white brick. Its simplicity is its selling point. Less is more!'
