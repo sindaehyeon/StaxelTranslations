@@ -3896,6 +3896,10 @@ staxel.item.quest.MachinePartSapper.name=기계 공병
 staxel.item.quest.MachinePartScreen.description=데이터 화면이 그닥 잘 안나오네요.
 //[Reference] 'Machine Screen'
 staxel.item.quest.MachinePartScreen.name=기계 화면
+//[Reference] 'These weird seeds may turn out to become big.'
+staxel.item.quest.Max.GaintTurnipNoQuest.description=이 이상한 씨앗은 계속 커집니다.
+//[Reference] 'Giant Turnip'
+staxel.item.quest.Max.GaintTurnipNoQuest.name=거대 순무
 //[Reference] 'This ultra-strong coffee has a similar colour and consistency to machine oil. The aroma is slightly concerning.'
 staxel.item.quest.OrderForAliza.description=이 초강력 커피는 뭔가 기계에 바르는 기름과 비슷한 색을 띕니다. 냄새는... 좀 걱정될 정도네요.
 //[Reference] 'Ultra-strong coffee'
